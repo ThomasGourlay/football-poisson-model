@@ -1,0 +1,30 @@
+# ---- python junk ----
+__pycache__/
+*.pyc
+*.pyo
+
+# ---- virtual environments ----
+.venv/
+venv/
+
+# ---- data: ignore everything ----
+data/*
+
+# ---- but keep this processed dataset ----
+!data/processed_pop.csv
+
+# ---- keep the data directory itself ----
+!data/
+
+# ---- notebooks ----
+.ipynb_checkpoints/
+
+# ---- os junk ----
+.DS_Store
+Thumbs.db
+
+# ignore Word temp files
+*.docx
+
+# ignore output html files
+*.html
