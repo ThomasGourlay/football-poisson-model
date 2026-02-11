@@ -1,9 +1,18 @@
+This repo is a slightly messy WIP. tldr; see writeup.pdf for an explanation of the mathematical model and see main or see analysis/main for some demonstrations.
+
+
+
+Currently moving the important functions into a different file to be used as a module, and fixing some conceptual mathematical errors in the module.
+
+
+
 In this model, we assume football match results are the outcomes of two independent poisson processes, being the home score and away score. We use scipy.minimize to fit team ratings to the data to make predictions about the probability of certain match outcomes, namely whether the total goals will exceed 2.5. The specific implementation and justification for how the MLE works, is explained in a pdf which may or may not be found in this repo (depending on whether I've written it up yet).
 
-The EPL data used comes from https://www.football-data.co.uk/data.php. In this repo we use 5 seasons of EPL data which we just compile into a single csv manually in Excel. Realistically this program should work on any team invasion sport on any number of seasons, although we may encounter practical performance issues on larger numbers of teams and seasons. 
+The data used comes from https://www.football-data.co.uk/data.php. In this repo we use 5 seasons of EPL data which we just compile into a single csv manually in Excel. Realistically this program should work on any team invasion sport on any number of seasons, although we may encounter practical performance issues on larger numbers of teams and seasons.
 
 We demonstrate the power of this model by using betting odds data to back-test a simple strategy that estimates the probability of over/under 2.5 goals, and places bets with positive expected value (according to our probability). We can see in the results, that the model was highly successful, profiting in every season and having no obvious long-term drawdowns.
 
 There are many limitations with the model, and it is important to not draw inappropriate conclusions. For one, the model is fitted on the entire dataset, and then used to predict matches in that dataset. This means the model knows all about the future performance of a team, which we do not have in the real world.
 
 I intend to continue this project in the future, perhaps refining hyperparameters and doing more rigorous statistical testing to see whether it has value in a real betting context.
+
