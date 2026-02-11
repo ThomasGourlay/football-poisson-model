@@ -1,0 +1,1710 @@
+﻿Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,B365>2.5,B365<2.5
+D1,16/08/2019,19:30,Bayern Munich,Hertha,2,2,1.33,3.4
+D1,17/08/2019,14:30,Dortmund,Augsburg,5,1,1.44,2.75
+D1,17/08/2019,14:30,Freiburg,Mainz,3,0,1.9,1.9
+D1,17/08/2019,14:30,Leverkusen,Paderborn,3,2,1.36,3.2
+D1,17/08/2019,14:30,Werder Bremen,Fortuna Dusseldorf,1,3,1.66,2.2
+D1,17/08/2019,14:30,Wolfsburg,FC Koln,2,1,1.66,2.2
+D1,17/08/2019,17:30,M'gladbach,Schalke 04,0,0,1.8,2
+D1,18/08/2019,14:30,Ein Frankfurt,Hoffenheim,1,0,1.53,2.5
+D1,18/08/2019,17:00,Union Berlin,RB Leipzig,0,4,1.72,2.1
+D1,23/08/2019,19:30,FC Koln,Dortmund,1,3,1.44,2.75
+D1,24/08/2019,14:30,Augsburg,Union Berlin,1,1,1.9,1.9
+D1,24/08/2019,14:30,Fortuna Dusseldorf,Leverkusen,1,3,1.44,2.75
+D1,24/08/2019,14:30,Hoffenheim,Werder Bremen,3,2,1.5,2.62
+D1,24/08/2019,14:30,Mainz,M'gladbach,1,3,1.8,2
+D1,24/08/2019,14:30,Paderborn,Freiburg,1,3,1.57,2.37
+D1,24/08/2019,17:30,Schalke 04,Bayern Munich,0,3,1.57,2.37
+D1,25/08/2019,14:30,RB Leipzig,Ein Frankfurt,2,1,1.5,2.62
+D1,25/08/2019,17:00,Hertha,Wolfsburg,0,3,1.72,2.1
+D1,30/08/2019,19:30,M'gladbach,RB Leipzig,1,3,1.57,2.37
+D1,31/08/2019,14:30,Bayern Munich,Mainz,6,1,1.25,4
+D1,31/08/2019,14:30,Freiburg,FC Koln,1,2,1.72,2.1
+D1,31/08/2019,14:30,Leverkusen,Hoffenheim,0,0,1.36,3.2
+D1,31/08/2019,14:30,Schalke 04,Hertha,3,0,1.9,1.9
+D1,31/08/2019,14:30,Wolfsburg,Paderborn,1,1,1.36,3.2
+D1,31/08/2019,17:30,Union Berlin,Dortmund,3,1,1.44,2.75
+D1,1/09/2019,14:30,Werder Bremen,Augsburg,3,2,1.61,2.3
+D1,1/09/2019,17:00,Ein Frankfurt,Fortuna Dusseldorf,2,1,1.57,2.37
+D1,13/09/2019,19:30,Fortuna Dusseldorf,Wolfsburg,1,1,1.66,2.2
+D1,14/09/2019,14:30,Augsburg,Ein Frankfurt,2,1,1.61,2.3
+D1,14/09/2019,14:30,Dortmund,Leverkusen,4,0,1.44,2.75
+D1,14/09/2019,14:30,FC Koln,M'gladbach,0,1,1.66,2.2
+D1,14/09/2019,14:30,Mainz,Hertha,2,1,1.72,2.1
+D1,14/09/2019,14:30,Union Berlin,Werder Bremen,1,2,1.66,2.2
+D1,14/09/2019,17:30,RB Leipzig,Bayern Munich,1,1,1.44,2.75
+D1,15/09/2019,14:30,Hoffenheim,Freiburg,0,3,1.57,2.37
+D1,15/09/2019,17:00,Paderborn,Schalke 04,1,5,1.53,2.5
+D1,20/09/2019,19:30,Schalke 04,Mainz,2,1,1.66,2.2
+D1,21/09/2019,14:30,Bayern Munich,FC Koln,4,0,1.25,4
+D1,21/09/2019,14:30,Freiburg,Augsburg,1,1,1.66,2.2
+D1,21/09/2019,14:30,Hertha,Paderborn,2,1,1.44,2.75
+D1,21/09/2019,14:30,Leverkusen,Union Berlin,2,0,1.44,2.75
+D1,21/09/2019,17:30,Werder Bremen,RB Leipzig,0,3,1.44,2.75
+D1,22/09/2019,14:30,M'gladbach,Fortuna Dusseldorf,2,1,1.53,2.5
+D1,22/09/2019,17:00,Ein Frankfurt,Dortmund,2,2,1.44,2.75
+D1,23/09/2019,19:30,Wolfsburg,Hoffenheim,1,1,1.53,2.5
+D1,27/09/2019,19:30,Union Berlin,Ein Frankfurt,1,2,1.57,2.37
+D1,28/09/2019,14:30,Augsburg,Leverkusen,0,3,1.4,3
+D1,28/09/2019,14:30,Hoffenheim,M'gladbach,0,3,1.57,2.37
+D1,28/09/2019,14:30,Mainz,Wolfsburg,0,1,1.72,2.1
+D1,28/09/2019,14:30,Paderborn,Bayern Munich,2,3,1.2,4.5
+D1,28/09/2019,14:30,RB Leipzig,Schalke 04,1,3,1.53,2.5
+D1,28/09/2019,17:30,Dortmund,Werder Bremen,2,2,1.3,3.5
+D1,29/09/2019,14:30,Fortuna Dusseldorf,Freiburg,1,2,1.66,2.2
+D1,29/09/2019,17:00,FC Koln,Hertha,0,4,1.61,2.3
+D1,4/10/2019,19:30,Hertha,Fortuna Dusseldorf,3,1,1.57,2.37
+D1,5/10/2019,14:30,Bayern Munich,Hoffenheim,1,2,1.22,4.33
+D1,5/10/2019,14:30,Freiburg,Dortmund,2,2,1.44,2.75
+D1,5/10/2019,14:30,Leverkusen,RB Leipzig,1,1,1.53,2.5
+D1,5/10/2019,14:30,Paderborn,Mainz,1,2,1.44,2.75
+D1,5/10/2019,17:30,Schalke 04,FC Koln,1,1,1.57,2.37
+D1,6/10/2019,12:30,M'gladbach,Augsburg,5,1,1.5,2.62
+D1,6/10/2019,14:30,Wolfsburg,Union Berlin,1,0,1.72,2.1
+D1,6/10/2019,17:00,Ein Frankfurt,Werder Bremen,2,2,1.53,2.5
+D1,18/10/2019,19:30,Ein Frankfurt,Leverkusen,3,0,1.53,2.5
+D1,19/10/2019,14:30,Augsburg,Bayern Munich,2,2,1.28,3.75
+D1,19/10/2019,14:30,Fortuna Dusseldorf,Mainz,1,0,1.66,2.2
+D1,19/10/2019,14:30,RB Leipzig,Wolfsburg,1,1,1.61,2.3
+D1,19/10/2019,14:30,Union Berlin,Freiburg,2,0,1.9,1.9
+D1,19/10/2019,14:30,Werder Bremen,Hertha,1,1,1.53,2.5
+D1,19/10/2019,17:30,Dortmund,M'gladbach,1,0,1.36,3.2
+D1,20/10/2019,14:30,FC Koln,Paderborn,3,0,1.36,3.2
+D1,20/10/2019,17:00,Hoffenheim,Schalke 04,2,0,1.72,2.1
+D1,25/10/2019,19:30,Mainz,FC Koln,3,1,1.57,2.37
+D1,26/10/2019,14:30,Bayern Munich,Union Berlin,2,1,1.22,4.33
+D1,26/10/2019,14:30,Freiburg,RB Leipzig,2,1,1.66,2.2
+D1,26/10/2019,14:30,Hertha,Hoffenheim,2,3,1.61,2.3
+D1,26/10/2019,14:30,Paderborn,Fortuna Dusseldorf,2,0,1.36,3.2
+D1,26/10/2019,14:30,Schalke 04,Dortmund,0,0,1.66,2.2
+D1,26/10/2019,17:30,Leverkusen,Werder Bremen,2,2,1.44,2.75
+D1,27/10/2019,14:30,Wolfsburg,Augsburg,0,0,1.61,2.3
+D1,27/10/2019,17:00,M'gladbach,Ein Frankfurt,4,2,1.5,2.62
+D1,1/11/2019,19:30,Hoffenheim,Paderborn,3,0,1.3,3.5
+D1,2/11/2019,14:30,Dortmund,Wolfsburg,3,0,1.61,2.3
+D1,2/11/2019,14:30,Ein Frankfurt,Bayern Munich,5,1,1.3,3.5
+D1,2/11/2019,14:30,Leverkusen,M'gladbach,1,2,1.5,2.62
+D1,2/11/2019,14:30,RB Leipzig,Mainz,8,0,1.4,3
+D1,2/11/2019,14:30,Werder Bremen,Freiburg,2,2,1.66,2.2
+D1,2/11/2019,17:30,Union Berlin,Hertha,1,0,1.9,1.9
+D1,3/11/2019,14:30,Fortuna Dusseldorf,FC Koln,2,0,1.57,2.37
+D1,3/11/2019,17:00,Augsburg,Schalke 04,2,3,1.72,2.1
+D1,8/11/2019,19:30,FC Koln,Hoffenheim,1,2,1.61,2.3
+D1,9/11/2019,14:30,Hertha,RB Leipzig,2,4,1.57,2.37
+D1,9/11/2019,14:30,Mainz,Union Berlin,2,3,1.9,1.9
+D1,9/11/2019,14:30,Paderborn,Augsburg,0,1,1.44,2.75
+D1,9/11/2019,14:30,Schalke 04,Fortuna Dusseldorf,3,3,1.72,2.1
+D1,9/11/2019,17:30,Bayern Munich,Dortmund,4,0,1.4,3
+D1,10/11/2019,12:30,M'gladbach,Werder Bremen,3,1,1.53,2.5
+D1,10/11/2019,14:30,Wolfsburg,Leverkusen,0,2,1.8,2
+D1,10/11/2019,17:00,Freiburg,Ein Frankfurt,1,0,1.66,2.2
+D1,22/11/2019,19:30,Dortmund,Paderborn,3,3,1.22,4.33
+D1,23/11/2019,14:30,Ein Frankfurt,Wolfsburg,0,2,1.66,2.2
+D1,23/11/2019,14:30,Fortuna Dusseldorf,Bayern Munich,0,4,1.3,3.5
+D1,23/11/2019,14:30,Leverkusen,Freiburg,1,1,1.53,2.5
+D1,23/11/2019,14:30,Union Berlin,M'gladbach,2,0,1.72,2.1
+D1,23/11/2019,14:30,Werder Bremen,Schalke 04,1,2,1.57,2.37
+D1,23/11/2019,17:30,RB Leipzig,FC Koln,4,1,1.4,3
+D1,24/11/2019,14:30,Augsburg,Hertha,4,0,1.72,2.1
+D1,24/11/2019,17:00,Hoffenheim,Mainz,1,5,1.53,2.5
+D1,29/11/2019,19:30,Schalke 04,Union Berlin,2,1,1.72,2.1
+D1,30/11/2019,14:30,FC Koln,Augsburg,1,1,1.66,2.2
+D1,30/11/2019,14:30,Hertha,Dortmund,1,2,1.61,2.3
+D1,30/11/2019,14:30,Hoffenheim,Fortuna Dusseldorf,1,1,1.57,2.37
+D1,30/11/2019,14:30,Paderborn,RB Leipzig,2,3,1.3,3.5
+D1,30/11/2019,17:30,Bayern Munich,Leverkusen,1,2,1.3,3.5
+D1,1/12/2019,14:30,M'gladbach,Freiburg,4,2,1.57,2.37
+D1,1/12/2019,17:00,Wolfsburg,Werder Bremen,2,3,1.72,2.1
+D1,2/12/2019,19:30,Mainz,Ein Frankfurt,2,1,1.57,2.37
+D1,6/12/2019,19:30,Ein Frankfurt,Hertha,2,2,1.57,2.37
+D1,7/12/2019,14:30,Augsburg,Mainz,2,1,1.61,2.3
+D1,7/12/2019,14:30,Dortmund,Fortuna Dusseldorf,5,0,1.4,3
+D1,7/12/2019,14:30,Freiburg,Wolfsburg,1,0,1.9,1.9
+D1,7/12/2019,14:30,M'gladbach,Bayern Munich,2,1,1.36,3.2
+D1,7/12/2019,14:30,RB Leipzig,Hoffenheim,3,1,1.4,3
+D1,7/12/2019,17:30,Leverkusen,Schalke 04,2,1,1.72,2.1
+D1,8/12/2019,14:30,Union Berlin,FC Koln,2,0,1.8,2
+D1,8/12/2019,17:00,Werder Bremen,Paderborn,0,1,1.33,3.4
+D1,13/12/2019,19:30,Hoffenheim,Augsburg,2,4,1.53,2.5
+D1,14/12/2019,14:30,Bayern Munich,Werder Bremen,6,1,1.22,4.33
+D1,14/12/2019,14:30,FC Koln,Leverkusen,2,0,1.57,2.37
+D1,14/12/2019,14:30,Hertha,Freiburg,1,0,1.8,2
+D1,14/12/2019,14:30,Mainz,Dortmund,0,4,1.44,2.75
+D1,14/12/2019,14:30,Paderborn,Union Berlin,1,1,1.66,2.2
+D1,14/12/2019,17:30,Fortuna Dusseldorf,RB Leipzig,0,3,1.44,2.75
+D1,15/12/2019,14:30,Wolfsburg,M'gladbach,2,1,1.72,2.1
+D1,15/12/2019,17:00,Schalke 04,Ein Frankfurt,1,0,1.66,2.2
+D1,17/12/2019,17:30,Werder Bremen,Mainz,0,5,1.4,3
+D1,17/12/2019,19:30,Augsburg,Fortuna Dusseldorf,3,0,1.66,2.2
+D1,17/12/2019,19:30,Dortmund,RB Leipzig,3,3,1.44,2.75
+D1,17/12/2019,19:30,Union Berlin,Hoffenheim,0,2,1.8,2
+D1,18/12/2019,17:30,Leverkusen,Hertha,0,1,1.53,2.5
+D1,18/12/2019,19:30,Ein Frankfurt,FC Koln,2,4,1.57,2.37
+D1,18/12/2019,19:30,Freiburg,Bayern Munich,1,3,1.28,3.75
+D1,18/12/2019,19:30,M'gladbach,Paderborn,2,0,1.28,3.75
+D1,18/12/2019,19:30,Wolfsburg,Schalke 04,1,1,2,1.8
+D1,20/12/2019,19:30,Hoffenheim,Dortmund,2,1,1.44,2.75
+D1,21/12/2019,14:30,Bayern Munich,Wolfsburg,2,0,1.3,3.5
+D1,21/12/2019,14:30,FC Koln,Werder Bremen,1,0,1.57,2.37
+D1,21/12/2019,14:30,Mainz,Leverkusen,0,1,1.44,2.75
+D1,21/12/2019,14:30,RB Leipzig,Augsburg,3,1,1.33,3.4
+D1,21/12/2019,14:30,Schalke 04,Freiburg,2,2,1.66,2.2
+D1,21/12/2019,17:30,Hertha,M'gladbach,0,0,1.61,2.3
+D1,22/12/2019,14:30,Fortuna Dusseldorf,Union Berlin,2,1,1.9,1.9
+D1,22/12/2019,17:00,Paderborn,Ein Frankfurt,2,1,1.44,2.75
+D1,17/01/2020,19:30,Schalke 04,M'gladbach,2,0,1.72,2.1
+D1,18/01/2020,14:30,Augsburg,Dortmund,3,5,1.44,2.75
+D1,18/01/2020,14:30,FC Koln,Wolfsburg,3,1,1.9,1.9
+D1,18/01/2020,14:30,Fortuna Dusseldorf,Werder Bremen,0,1,1.66,2.2
+D1,18/01/2020,14:30,Hoffenheim,Ein Frankfurt,1,2,1.53,2.5
+D1,18/01/2020,14:30,Mainz,Freiburg,1,2,1.66,2.2
+D1,18/01/2020,17:30,RB Leipzig,Union Berlin,3,1,1.44,2.75
+D1,19/01/2020,14:30,Hertha,Bayern Munich,0,4,1.4,3
+D1,19/01/2020,17:00,Paderborn,Leverkusen,1,4,1.44,2.75
+D1,24/01/2020,19:30,Dortmund,FC Koln,5,1,1.3,3.5
+D1,25/01/2020,14:30,Ein Frankfurt,RB Leipzig,2,0,1.4,3
+D1,25/01/2020,14:30,Freiburg,Paderborn,0,2,1.5,2.62
+D1,25/01/2020,14:30,M'gladbach,Mainz,3,1,1.36,3.2
+D1,25/01/2020,14:30,Union Berlin,Augsburg,2,0,1.8,2
+D1,25/01/2020,14:30,Wolfsburg,Hertha,1,2,1.9,1.9
+D1,25/01/2020,17:30,Bayern Munich,Schalke 04,5,0,1.28,3.75
+D1,26/01/2020,14:30,Werder Bremen,Hoffenheim,0,3,1.53,2.5
+D1,26/01/2020,17:00,Leverkusen,Fortuna Dusseldorf,3,0,1.44,2.75
+D1,31/01/2020,19:30,Hertha,Schalke 04,0,0,2,1.8
+D1,1/02/2020,14:30,Augsburg,Werder Bremen,2,1,1.57,2.37
+D1,1/02/2020,14:30,Dortmund,Union Berlin,5,0,1.36,3.2
+D1,1/02/2020,14:30,Fortuna Dusseldorf,Ein Frankfurt,1,1,1.61,2.3
+D1,1/02/2020,14:30,Hoffenheim,Leverkusen,2,1,1.53,2.5
+D1,1/02/2020,14:30,Mainz,Bayern Munich,1,3,1.25,4
+D1,1/02/2020,17:30,RB Leipzig,M'gladbach,2,2,1.44,2.75
+D1,2/02/2020,14:30,FC Koln,Freiburg,4,0,1.66,2.2
+D1,2/02/2020,17:00,Paderborn,Wolfsburg,2,4,1.66,2.2
+D1,7/02/2020,19:30,Ein Frankfurt,Augsburg,5,0,1.8,2
+D1,8/02/2020,14:30,Freiburg,Hoffenheim,1,0,1.57,2.37
+D1,8/02/2020,14:30,Hertha,Mainz,1,3,1.66,2.2
+D1,8/02/2020,14:30,Schalke 04,Paderborn,1,1,1.44,2.75
+D1,8/02/2020,14:30,Werder Bremen,Union Berlin,0,2,1.72,2.1
+D1,8/02/2020,14:30,Wolfsburg,Fortuna Dusseldorf,1,1,1.72,2.1
+D1,8/02/2020,17:30,Leverkusen,Dortmund,4,3,1.4,3
+D1,9/02/2020,17:00,Bayern Munich,RB Leipzig,0,0,1.28,3.75
+D1,14/02/2020,19:30,Dortmund,Ein Frankfurt,4,0,1.36,3.2
+D1,15/02/2020,14:30,Augsburg,Freiburg,1,1,1.66,2.2
+D1,15/02/2020,14:30,Hoffenheim,Wolfsburg,2,3,1.72,2.1
+D1,15/02/2020,14:30,Paderborn,Hertha,1,2,1.72,2.1
+D1,15/02/2020,14:30,RB Leipzig,Werder Bremen,3,0,1.33,3.4
+D1,15/02/2020,14:30,Union Berlin,Leverkusen,2,3,1.66,2.2
+D1,15/02/2020,17:30,Fortuna Dusseldorf,M'gladbach,1,4,1.66,2.2
+D1,16/02/2020,14:30,FC Koln,Bayern Munich,1,4,1.28,3.75
+D1,16/02/2020,17:00,Mainz,Schalke 04,0,0,1.72,2.1
+D1,21/02/2020,19:30,Bayern Munich,Paderborn,3,2,1.12,6
+D1,22/02/2020,14:30,Freiburg,Fortuna Dusseldorf,0,2,1.8,2
+D1,22/02/2020,14:30,Hertha,FC Koln,0,5,1.8,2
+D1,22/02/2020,14:30,M'gladbach,Hoffenheim,1,1,1.44,2.75
+D1,22/02/2020,14:30,Werder Bremen,Dortmund,0,2,1.33,3.4
+D1,22/02/2020,17:30,Schalke 04,RB Leipzig,0,5,1.61,2.3
+D1,23/02/2020,14:30,Leverkusen,Augsburg,2,0,1.44,2.75
+D1,23/02/2020,17:00,Wolfsburg,Mainz,4,0,1.66,2.2
+D1,24/02/2020,19:30,Ein Frankfurt,Union Berlin,1,2,1.72,2.1
+D1,28/02/2020,19:30,Fortuna Dusseldorf,Hertha,3,3,1.9,1.9
+D1,29/02/2020,14:30,Augsburg,M'gladbach,2,3,1.57,2.37
+D1,29/02/2020,14:30,Dortmund,Freiburg,1,0,1.3,3.5
+D1,29/02/2020,14:30,Hoffenheim,Bayern Munich,0,6,1.33,3.4
+D1,29/02/2020,14:30,Mainz,Paderborn,2,0,1.5,2.62
+D1,29/02/2020,17:30,FC Koln,Schalke 04,3,0,1.8,2
+D1,1/03/2020,12:30,Union Berlin,Wolfsburg,2,2,2.1,1.72
+D1,1/03/2020,14:30,RB Leipzig,Leverkusen,1,1,1.44,2.75
+D1,6/03/2020,19:00,Paderborn,FC Koln,1,2,1.53,2.5
+D1,7/03/2020,14:30,Freiburg,Union Berlin,3,1,1.9,1.9
+D1,7/03/2020,14:30,Hertha,Werder Bremen,2,2,1.9,1.9
+D1,7/03/2020,14:30,Leverkusen,Ein Frankfurt,4,0,1.53,2.5
+D1,7/03/2020,14:30,Schalke 04,Hoffenheim,1,1,1.66,2.2
+D1,7/03/2020,14:30,Wolfsburg,RB Leipzig,0,0,1.66,2.2
+D1,7/03/2020,17:30,M'gladbach,Dortmund,1,2,1.53,2.5
+D1,8/03/2020,14:30,Bayern Munich,Augsburg,2,0,1.2,4.5
+D1,8/03/2020,17:00,Mainz,Fortuna Dusseldorf,1,1,1.57,2.37
+D1,11/03/2020,17:30,M'gladbach,FC Koln,2,1,1.5,2.62
+D1,16/05/2020,14:30,Augsburg,Wolfsburg,1,2,1.9,1.9
+D1,16/05/2020,14:30,Dortmund,Schalke 04,4,0,1.66,2.2
+D1,16/05/2020,14:30,Fortuna Dusseldorf,Paderborn,0,0,1.72,2.1
+D1,16/05/2020,14:30,Hoffenheim,Hertha,0,3,1.72,2.1
+D1,16/05/2020,14:30,RB Leipzig,Freiburg,1,1,1.57,2.37
+D1,16/05/2020,17:30,Ein Frankfurt,M'gladbach,1,3,1.72,2.1
+D1,17/05/2020,14:30,FC Koln,Mainz,2,2,1.66,2.2
+D1,17/05/2020,17:00,Union Berlin,Bayern Munich,0,2,1.44,2.75
+D1,18/05/2020,19:30,Werder Bremen,Leverkusen,1,4,1.66,2.2
+D1,22/05/2020,19:30,Hertha,Union Berlin,4,0,1.9,1.9
+D1,23/05/2020,14:30,Freiburg,Werder Bremen,0,1,1.72,2.1
+D1,23/05/2020,14:30,M'gladbach,Leverkusen,1,3,1.5,2.62
+D1,23/05/2020,14:30,Paderborn,Hoffenheim,1,1,1.57,2.37
+D1,23/05/2020,14:30,Wolfsburg,Dortmund,0,2,1.66,2.2
+D1,23/05/2020,17:30,Bayern Munich,Ein Frankfurt,5,2,1.25,4
+D1,24/05/2020,12:30,Schalke 04,Augsburg,0,3,1.9,1.9
+D1,24/05/2020,14:30,Mainz,RB Leipzig,0,5,1.44,2.75
+D1,24/05/2020,17:00,FC Koln,Fortuna Dusseldorf,2,2,1.66,2.2
+D1,26/05/2020,17:30,Dortmund,Bayern Munich,0,1,1.36,3.2
+D1,26/05/2020,19:30,Ein Frankfurt,Freiburg,3,3,1.9,1.9
+D1,26/05/2020,19:30,Leverkusen,Wolfsburg,1,4,1.57,2.37
+D1,26/05/2020,19:30,Werder Bremen,M'gladbach,0,0,1.57,2.37
+D1,27/05/2020,17:30,RB Leipzig,Hertha,2,2,1.4,3
+D1,27/05/2020,19:30,Augsburg,Paderborn,0,0,1.8,2
+D1,27/05/2020,19:30,Fortuna Dusseldorf,Schalke 04,2,1,1.9,1.9
+D1,27/05/2020,19:30,Hoffenheim,FC Koln,3,1,1.53,2.5
+D1,27/05/2020,19:30,Union Berlin,Mainz,1,1,1.8,2
+D1,29/05/2020,19:30,Freiburg,Leverkusen,0,1,1.53,2.5
+D1,30/05/2020,14:30,Hertha,Augsburg,2,0,1.72,2.1
+D1,30/05/2020,14:30,Mainz,Hoffenheim,0,1,1.53,2.5
+D1,30/05/2020,14:30,Schalke 04,Werder Bremen,0,1,1.9,1.9
+D1,30/05/2020,14:30,Wolfsburg,Ein Frankfurt,1,2,1.66,2.2
+D1,30/05/2020,17:30,Bayern Munich,Fortuna Dusseldorf,5,0,1.2,4.5
+D1,31/05/2020,14:30,M'gladbach,Union Berlin,4,1,1.66,2.2
+D1,31/05/2020,17:00,Paderborn,Dortmund,1,6,1.44,2.75
+D1,1/06/2020,19:30,FC Koln,RB Leipzig,2,4,1.4,3
+D1,3/06/2020,19:30,Werder Bremen,Ein Frankfurt,0,3,1.72,2.1
+D1,5/06/2020,19:30,Freiburg,M'gladbach,1,0,1.61,2.3
+D1,6/06/2020,14:30,Ein Frankfurt,Mainz,0,2,1.53,2.5
+D1,6/06/2020,14:30,Fortuna Dusseldorf,Hoffenheim,2,2,1.66,2.2
+D1,6/06/2020,14:30,Leverkusen,Bayern Munich,2,4,1.3,3.5
+D1,6/06/2020,14:30,RB Leipzig,Paderborn,1,1,1.25,4
+D1,6/06/2020,17:30,Dortmund,Hertha,1,0,1.36,3.2
+D1,7/06/2020,12:30,Werder Bremen,Wolfsburg,0,1,1.9,1.9
+D1,7/06/2020,14:30,Union Berlin,Schalke 04,1,1,2.1,1.72
+D1,7/06/2020,17:00,Augsburg,FC Koln,1,1,1.72,2.1
+D1,12/06/2020,19:30,Hoffenheim,RB Leipzig,0,2,1.36,3.2
+D1,13/06/2020,14:30,FC Koln,Union Berlin,1,2,1.72,2.1
+D1,13/06/2020,14:30,Fortuna Dusseldorf,Dortmund,0,1,1.44,2.75
+D1,13/06/2020,14:30,Hertha,Ein Frankfurt,1,4,1.61,2.3
+D1,13/06/2020,14:30,Paderborn,Werder Bremen,1,5,1.72,2.1
+D1,13/06/2020,14:30,Wolfsburg,Freiburg,2,2,1.72,2.1
+D1,13/06/2020,17:30,Bayern Munich,M'gladbach,2,1,1.36,3.2
+D1,14/06/2020,14:30,Mainz,Augsburg,0,1,1.9,1.9
+D1,14/06/2020,17:00,Schalke 04,Leverkusen,1,1,1.72,2.1
+D1,16/06/2020,17:30,M'gladbach,Wolfsburg,3,0,1.57,2.37
+D1,16/06/2020,19:30,Freiburg,Hertha,2,1,1.72,2.1
+D1,16/06/2020,19:30,Union Berlin,Paderborn,1,0,1.72,2.1
+D1,16/06/2020,19:30,Werder Bremen,Bayern Munich,0,1,1.33,3.4
+D1,17/06/2020,17:30,Ein Frankfurt,Schalke 04,2,1,1.66,2.2
+D1,17/06/2020,19:30,Augsburg,Hoffenheim,1,3,1.61,2.3
+D1,17/06/2020,19:30,Dortmund,Mainz,0,2,1.36,3.2
+D1,17/06/2020,19:30,Leverkusen,FC Koln,3,1,1.44,2.75
+D1,17/06/2020,19:30,RB Leipzig,Fortuna Dusseldorf,2,2,1.36,3.2
+D1,20/06/2020,14:30,Bayern Munich,Freiburg,3,1,1.33,3.4
+D1,20/06/2020,14:30,FC Koln,Ein Frankfurt,1,1,1.53,2.5
+D1,20/06/2020,14:30,Fortuna Dusseldorf,Augsburg,1,1,1.9,1.9
+D1,20/06/2020,14:30,Hertha,Leverkusen,2,0,1.53,2.5
+D1,20/06/2020,14:30,Hoffenheim,Union Berlin,4,0,1.57,2.37
+D1,20/06/2020,14:30,Mainz,Werder Bremen,3,1,1.72,2.1
+D1,20/06/2020,14:30,Paderborn,M'gladbach,1,3,1.33,3.4
+D1,20/06/2020,14:30,RB Leipzig,Dortmund,0,2,1.57,2.37
+D1,20/06/2020,14:30,Schalke 04,Wolfsburg,1,4,1.72,2.1
+D1,27/06/2020,14:30,Augsburg,RB Leipzig,1,2,1.36,3.2
+D1,27/06/2020,14:30,Dortmund,Hoffenheim,0,4,1.33,3.4
+D1,27/06/2020,14:30,Ein Frankfurt,Paderborn,3,2,1.28,3.75
+D1,27/06/2020,14:30,Freiburg,Schalke 04,4,0,1.57,2.37
+D1,27/06/2020,14:30,Leverkusen,Mainz,1,0,1.3,3.5
+D1,27/06/2020,14:30,M'gladbach,Hertha,2,1,1.36,3.2
+D1,27/06/2020,14:30,Union Berlin,Fortuna Dusseldorf,3,0,1.72,2.1
+D1,27/06/2020,14:30,Werder Bremen,FC Koln,6,1,1.4,3
+D1,27/06/2020,14:30,Wolfsburg,Bayern Munich,0,4,1.33,3.4
+D1,13/08/2021,19:30,M'gladbach,Bayern Munich,1,1,1.4,3
+D1,14/08/2021,14:30,Augsburg,Hoffenheim,0,4,1.61,2.3
+D1,14/08/2021,14:30,Bielefeld,Freiburg,0,0,2.05,1.88
+D1,14/08/2021,14:30,Stuttgart,Greuther Furth,5,1,1.61,2.3
+D1,14/08/2021,14:30,Union Berlin,Leverkusen,1,1,1.9,1.9
+D1,14/08/2021,14:30,Wolfsburg,Bochum,1,0,1.57,2.37
+D1,14/08/2021,17:30,Dortmund,Ein Frankfurt,5,2,1.36,3.2
+D1,15/08/2021,14:30,Mainz,RB Leipzig,1,0,1.53,2.5
+D1,15/08/2021,16:30,FC Koln,Hertha,3,1,2,1.93
+D1,20/08/2021,19:30,RB Leipzig,Stuttgart,4,0,1.53,2.5
+D1,21/08/2021,14:30,Bochum,Mainz,2,0,1.8,2
+D1,21/08/2021,14:30,Ein Frankfurt,Augsburg,0,0,1.53,2.5
+D1,21/08/2021,14:30,Freiburg,Dortmund,2,1,1.5,2.62
+D1,21/08/2021,14:30,Greuther Furth,Bielefeld,1,1,2,1.8
+D1,21/08/2021,14:30,Hertha,Wolfsburg,1,2,1.8,2
+D1,21/08/2021,17:30,Leverkusen,M'gladbach,4,0,1.57,2.37
+D1,22/08/2021,14:30,Hoffenheim,Union Berlin,2,2,1.72,2.1
+D1,22/08/2021,16:30,Bayern Munich,FC Koln,3,2,1.28,3.75
+D1,27/08/2021,19:30,Dortmund,Hoffenheim,3,2,1.3,3.5
+D1,28/08/2021,14:30,Augsburg,Leverkusen,1,4,1.8,2
+D1,28/08/2021,14:30,Bielefeld,Ein Frankfurt,1,1,1.8,2
+D1,28/08/2021,14:30,FC Koln,Bochum,2,1,1.72,2.1
+D1,28/08/2021,14:30,Mainz,Greuther Furth,3,0,1.72,2.1
+D1,28/08/2021,14:30,Stuttgart,Freiburg,2,3,1.72,2.1
+D1,28/08/2021,17:30,Bayern Munich,Hertha,5,0,1.25,4
+D1,29/08/2021,14:30,Union Berlin,M'gladbach,2,1,1.8,2
+D1,29/08/2021,16:30,Wolfsburg,RB Leipzig,1,0,1.8,2
+D1,11/09/2021,14:30,Freiburg,FC Koln,1,1,1.66,2.2
+D1,11/09/2021,14:30,Greuther Furth,Wolfsburg,0,2,1.61,2.3
+D1,11/09/2021,14:30,Hoffenheim,Mainz,0,2,1.57,2.37
+D1,11/09/2021,14:30,Leverkusen,Dortmund,3,4,1.4,3
+D1,11/09/2021,14:30,Union Berlin,Augsburg,0,0,1.91,1.99
+D1,11/09/2021,17:30,RB Leipzig,Bayern Munich,1,4,1.44,2.75
+D1,12/09/2021,14:30,Ein Frankfurt,Stuttgart,1,1,1.5,2.62
+D1,12/09/2021,16:30,Bochum,Hertha,1,3,2.02,1.88
+D1,12/09/2021,18:30,M'gladbach,Bielefeld,3,1,1.66,2.2
+D1,17/09/2021,19:30,Hertha,Greuther Furth,2,1,1.86,2.04
+D1,18/09/2021,14:30,Augsburg,M'gladbach,1,0,1.57,2.37
+D1,18/09/2021,14:30,Bayern Munich,Bochum,7,0,1.16,5
+D1,18/09/2021,14:30,Bielefeld,Hoffenheim,0,0,1.72,2.1
+D1,18/09/2021,14:30,Mainz,Freiburg,0,0,1.8,2
+D1,18/09/2021,17:30,FC Koln,RB Leipzig,1,1,1.57,2.37
+D1,19/09/2021,14:30,Stuttgart,Leverkusen,1,3,1.53,2.5
+D1,19/09/2021,16:30,Dortmund,Union Berlin,4,2,1.44,2.75
+D1,19/09/2021,18:30,Wolfsburg,Ein Frankfurt,1,1,1.72,2.1
+D1,24/09/2021,19:30,Greuther Furth,Bayern Munich,1,3,1.14,5.5
+D1,25/09/2021,14:30,Ein Frankfurt,FC Koln,1,1,1.57,2.37
+D1,25/09/2021,14:30,Hoffenheim,Wolfsburg,3,1,1.66,2.2
+D1,25/09/2021,14:30,Leverkusen,Mainz,1,0,1.61,2.3
+D1,25/09/2021,14:30,RB Leipzig,Hertha,6,0,1.57,2.37
+D1,25/09/2021,14:30,Union Berlin,Bielefeld,1,0,2.06,1.84
+D1,25/09/2021,17:30,M'gladbach,Dortmund,1,0,1.36,3.2
+D1,26/09/2021,14:30,Bochum,Stuttgart,0,0,1.72,2.1
+D1,26/09/2021,16:30,Freiburg,Augsburg,3,0,2,1.8
+D1,1/10/2021,19:30,FC Koln,Greuther Furth,3,1,1.44,2.75
+D1,2/10/2021,14:30,Dortmund,Augsburg,2,1,1.36,3.2
+D1,2/10/2021,14:30,Hertha,Freiburg,1,2,1.97,1.93
+D1,2/10/2021,14:30,Stuttgart,Hoffenheim,3,1,1.44,2.75
+D1,2/10/2021,14:30,Wolfsburg,M'gladbach,1,3,1.72,2.1
+D1,2/10/2021,17:30,RB Leipzig,Bochum,3,0,1.4,3
+D1,3/10/2021,14:30,Mainz,Union Berlin,1,2,2,1.8
+D1,3/10/2021,16:30,Bayern Munich,Ein Frankfurt,1,2,1.2,4.5
+D1,3/10/2021,18:30,Bielefeld,Leverkusen,0,4,1.72,2.1
+D1,15/10/2021,19:30,Hoffenheim,FC Koln,5,0,1.44,2.75
+D1,16/10/2021,14:30,Dortmund,Mainz,3,1,1.44,2.75
+D1,16/10/2021,14:30,Ein Frankfurt,Hertha,1,2,1.8,2
+D1,16/10/2021,14:30,Freiburg,RB Leipzig,1,1,1.66,2.2
+D1,16/10/2021,14:30,Greuther Furth,Bochum,0,1,1.72,2.1
+D1,16/10/2021,14:30,Union Berlin,Wolfsburg,2,0,2.1,1.72
+D1,16/10/2021,17:30,M'gladbach,Stuttgart,1,1,1.53,2.5
+D1,17/10/2021,14:30,Leverkusen,Bayern Munich,1,5,1.28,3.75
+D1,17/10/2021,16:30,Augsburg,Bielefeld,1,1,2.2,1.66
+D1,22/10/2021,19:30,Mainz,Augsburg,4,1,2,1.8
+D1,23/10/2021,14:30,Bayern Munich,Hoffenheim,4,0,1.2,4.5
+D1,23/10/2021,14:30,Bielefeld,Dortmund,1,3,1.61,2.3
+D1,23/10/2021,14:30,RB Leipzig,Greuther Furth,4,1,1.33,3.4
+D1,23/10/2021,14:30,Wolfsburg,Freiburg,0,2,2.1,1.72
+D1,23/10/2021,17:30,Hertha,M'gladbach,1,0,1.72,2.1
+D1,24/10/2021,14:30,FC Koln,Leverkusen,2,2,1.53,2.5
+D1,24/10/2021,16:30,Stuttgart,Union Berlin,1,1,1.9,1.9
+D1,24/10/2021,18:30,Bochum,Ein Frankfurt,2,0,1.8,2
+D1,29/10/2021,19:30,Hoffenheim,Hertha,2,0,1.66,2.2
+D1,30/10/2021,14:30,Bielefeld,Mainz,1,2,2.1,1.72
+D1,30/10/2021,14:30,Dortmund,FC Koln,2,0,1.4,3
+D1,30/10/2021,14:30,Freiburg,Greuther Furth,3,1,1.61,2.3
+D1,30/10/2021,14:30,Leverkusen,Wolfsburg,0,2,1.8,2
+D1,30/10/2021,14:30,Union Berlin,Bayern Munich,2,5,1.4,3
+D1,30/10/2021,17:30,Ein Frankfurt,RB Leipzig,1,1,1.53,2.5
+D1,31/10/2021,14:30,Augsburg,Stuttgart,4,1,1.95,1.98
+D1,31/10/2021,16:30,M'gladbach,Bochum,2,1,1.53,2.5
+D1,5/11/2021,19:30,Mainz,M'gladbach,1,1,1.72,2.1
+D1,6/11/2021,14:30,Bayern Munich,Freiburg,2,1,1.25,4
+D1,6/11/2021,14:30,Bochum,Hoffenheim,2,0,1.61,2.3
+D1,6/11/2021,14:30,Stuttgart,Bielefeld,0,1,1.8,2
+D1,6/11/2021,14:30,Wolfsburg,Augsburg,1,0,1.8,2
+D1,6/11/2021,17:30,RB Leipzig,Dortmund,2,1,1.57,2.37
+D1,7/11/2021,14:30,Hertha,Leverkusen,1,1,1.72,2.1
+D1,7/11/2021,16:30,FC Koln,Union Berlin,2,2,1.72,2.1
+D1,7/11/2021,18:30,Greuther Furth,Ein Frankfurt,1,2,1.72,2.1
+D1,19/11/2021,19:30,Augsburg,Bayern Munich,2,1,1.3,3.5
+D1,20/11/2021,14:30,Bielefeld,Wolfsburg,2,2,2.05,1.85
+D1,20/11/2021,14:30,Dortmund,Stuttgart,2,1,1.44,2.75
+D1,20/11/2021,14:30,Hoffenheim,RB Leipzig,2,0,1.57,2.37
+D1,20/11/2021,14:30,Leverkusen,Bochum,1,0,1.53,2.5
+D1,20/11/2021,14:30,M'gladbach,Greuther Furth,4,0,1.44,2.75
+D1,20/11/2021,17:30,Union Berlin,Hertha,2,0,2.2,1.66
+D1,21/11/2021,14:30,Freiburg,Ein Frankfurt,0,2,1.72,2.1
+D1,21/11/2021,16:30,Mainz,FC Koln,1,1,1.72,2.1
+D1,26/11/2021,19:30,Stuttgart,Mainz,2,1,2.08,1.85
+D1,27/11/2021,14:30,Bochum,Freiburg,2,1,2.03,1.9
+D1,27/11/2021,14:30,FC Koln,M'gladbach,4,1,1.57,2.37
+D1,27/11/2021,14:30,Greuther Furth,Hoffenheim,3,6,1.53,2.5
+D1,27/11/2021,14:30,Hertha,Augsburg,1,1,2.2,1.66
+D1,27/11/2021,14:30,Wolfsburg,Dortmund,1,3,1.89,2.04
+D1,27/11/2021,17:30,Bayern Munich,Bielefeld,1,0,1.22,4.33
+D1,28/11/2021,14:30,Ein Frankfurt,Union Berlin,2,1,1.97,1.96
+D1,28/11/2021,16:30,RB Leipzig,Leverkusen,1,3,1.53,2.5
+D1,3/12/2021,19:30,Union Berlin,RB Leipzig,2,1,1.72,2.1
+D1,4/12/2021,14:30,Augsburg,Bochum,2,3,2.04,1.86
+D1,4/12/2021,14:30,Bielefeld,FC Koln,1,1,1.87,2.03
+D1,4/12/2021,14:30,Hoffenheim,Ein Frankfurt,3,2,1.57,2.37
+D1,4/12/2021,14:30,Leverkusen,Greuther Furth,7,1,1.33,3.4
+D1,4/12/2021,14:30,Mainz,Wolfsburg,3,0,2.1,1.72
+D1,4/12/2021,17:30,Dortmund,Bayern Munich,2,3,1.33,3.4
+D1,5/12/2021,14:30,Stuttgart,Hertha,2,2,1.99,1.91
+D1,5/12/2021,16:30,M'gladbach,Freiburg,0,6,1.72,2.1
+D1,10/12/2021,19:30,FC Koln,Augsburg,0,2,1.72,2.1
+D1,11/12/2021,14:30,Bayern Munich,Mainz,2,1,1.33,3.4
+D1,11/12/2021,14:30,Bochum,Dortmund,1,1,1.44,2.75
+D1,11/12/2021,14:30,Freiburg,Hoffenheim,1,2,1.61,2.3
+D1,11/12/2021,14:30,Hertha,Bielefeld,2,0,2,1.8
+D1,11/12/2021,14:30,RB Leipzig,M'gladbach,4,1,1.53,2.5
+D1,11/12/2021,17:30,Wolfsburg,Stuttgart,0,2,1.94,1.99
+D1,12/12/2021,14:30,Greuther Furth,Union Berlin,1,0,1.72,2.1
+D1,12/12/2021,16:30,Ein Frankfurt,Leverkusen,5,2,1.57,2.37
+D1,14/12/2021,17:30,Stuttgart,Bayern Munich,0,5,1.36,3.2
+D1,14/12/2021,19:30,Bielefeld,Bochum,2,0,1.97,1.96
+D1,14/12/2021,19:30,Mainz,Hertha,4,0,2.04,1.89
+D1,14/12/2021,19:30,Wolfsburg,FC Koln,2,3,1.9,2.03
+D1,15/12/2021,17:30,M'gladbach,Ein Frankfurt,2,3,1.66,2.2
+D1,15/12/2021,19:30,Augsburg,RB Leipzig,1,1,1.61,2.3
+D1,15/12/2021,19:30,Dortmund,Greuther Furth,3,0,1.25,4
+D1,15/12/2021,19:30,Leverkusen,Hoffenheim,2,2,1.44,2.75
+D1,15/12/2021,19:30,Union Berlin,Freiburg,0,0,2.05,1.85
+D1,17/12/2021,19:30,Bayern Munich,Wolfsburg,4,0,1.3,3.5
+D1,18/12/2021,14:30,Bochum,Union Berlin,0,1,2,1.8
+D1,18/12/2021,14:30,Ein Frankfurt,Mainz,1,0,1.8,2
+D1,18/12/2021,14:30,Greuther Furth,Augsburg,0,0,1.96,1.94
+D1,18/12/2021,14:30,Hoffenheim,M'gladbach,1,1,1.5,2.62
+D1,18/12/2021,14:30,RB Leipzig,Bielefeld,0,2,1.53,2.5
+D1,18/12/2021,17:30,Hertha,Dortmund,3,2,1.57,2.37
+D1,19/12/2021,14:30,Freiburg,Leverkusen,2,1,1.66,2.2
+D1,19/12/2021,16:30,FC Koln,Stuttgart,1,0,1.61,2.3
+D1,7/01/2022,19:30,Bayern Munich,M'gladbach,1,2,1.28,3.75
+D1,8/01/2022,14:30,Freiburg,Bielefeld,2,2,2,1.9
+D1,8/01/2022,14:30,Greuther Furth,Stuttgart,0,0,1.87,2.03
+D1,8/01/2022,14:30,Hoffenheim,Augsburg,3,1,1.61,2.3
+D1,8/01/2022,14:30,Leverkusen,Union Berlin,2,2,1.72,2.1
+D1,8/01/2022,14:30,RB Leipzig,Mainz,4,1,1.72,2.1
+D1,8/01/2022,17:30,Ein Frankfurt,Dortmund,2,3,1.44,2.75
+D1,9/01/2022,14:30,Hertha,FC Koln,1,3,1.72,2.1
+D1,9/01/2022,16:30,Bochum,Wolfsburg,1,0,1.96,1.94
+D1,14/01/2022,19:30,Dortmund,Freiburg,5,1,1.4,3
+D1,15/01/2022,14:30,FC Koln,Bayern Munich,0,4,1.3,3.5
+D1,15/01/2022,14:30,Mainz,Bochum,1,0,2,1.9
+D1,15/01/2022,14:30,Stuttgart,RB Leipzig,0,2,1.57,2.37
+D1,15/01/2022,14:30,Union Berlin,Hoffenheim,2,1,1.72,2.1
+D1,15/01/2022,14:30,Wolfsburg,Hertha,0,0,1.99,1.91
+D1,15/01/2022,17:30,M'gladbach,Leverkusen,1,2,1.44,2.75
+D1,16/01/2022,14:30,Augsburg,Ein Frankfurt,1,1,1.85,2.05
+D1,16/01/2022,16:30,Bielefeld,Greuther Furth,2,2,2.07,1.83
+D1,21/01/2022,19:30,Ein Frankfurt,Bielefeld,0,2,1.83,2.07
+D1,22/01/2022,14:30,Freiburg,Stuttgart,2,0,2.02,1.88
+D1,22/01/2022,14:30,Greuther Furth,Mainz,2,1,2.02,1.88
+D1,22/01/2022,14:30,Hoffenheim,Dortmund,2,3,1.4,3
+D1,22/01/2022,14:30,Leverkusen,Augsburg,5,1,1.57,2.37
+D1,22/01/2022,14:30,M'gladbach,Union Berlin,1,2,1.85,2.05
+D1,22/01/2022,17:30,Bochum,FC Koln,2,2,1.72,2.1
+D1,23/01/2022,14:30,RB Leipzig,Wolfsburg,2,0,1.72,2.1
+D1,23/01/2022,16:30,Hertha,Bayern Munich,1,4,1.36,3.2
+D1,4/02/2022,19:30,Hertha,Bochum,1,1,1.9,2
+D1,5/02/2022,14:30,Augsburg,Union Berlin,2,0,2.05,1.85
+D1,5/02/2022,14:30,Bielefeld,M'gladbach,1,1,1.8,2
+D1,5/02/2022,14:30,FC Koln,Freiburg,1,0,1.72,2.1
+D1,5/02/2022,14:30,Mainz,Hoffenheim,2,0,1.72,2.1
+D1,5/02/2022,14:30,Stuttgart,Ein Frankfurt,2,3,1.8,2
+D1,5/02/2022,17:30,Bayern Munich,RB Leipzig,3,2,1.36,3.2
+D1,6/02/2022,14:30,Dortmund,Leverkusen,2,5,1.4,3
+D1,6/02/2022,16:30,Wolfsburg,Greuther Furth,4,1,1.94,1.96
+D1,11/02/2022,19:30,RB Leipzig,FC Koln,3,1,1.5,2.62
+D1,12/02/2022,14:30,Bochum,Bayern Munich,4,2,1.28,3.75
+D1,12/02/2022,14:30,Ein Frankfurt,Wolfsburg,0,2,1.96,1.94
+D1,12/02/2022,14:30,Freiburg,Mainz,1,1,2.03,1.87
+D1,12/02/2022,14:30,Greuther Furth,Hertha,2,1,1.99,1.91
+D1,12/02/2022,14:30,M'gladbach,Augsburg,3,2,1.66,2.2
+D1,12/02/2022,17:30,Leverkusen,Stuttgart,4,2,1.44,2.75
+D1,13/02/2022,14:30,Union Berlin,Dortmund,0,3,1.61,2.3
+D1,13/02/2022,16:30,Hoffenheim,Bielefeld,2,0,1.66,2.2
+D1,18/02/2022,19:30,Mainz,Leverkusen,3,2,1.72,2.1
+D1,19/02/2022,14:30,Augsburg,Freiburg,1,2,2.03,1.87
+D1,19/02/2022,14:30,Bielefeld,Union Berlin,1,0,2.2,1.66
+D1,19/02/2022,14:30,Stuttgart,Bochum,1,1,1.95,1.95
+D1,19/02/2022,14:30,Wolfsburg,Hoffenheim,1,2,1.72,2.1
+D1,19/02/2022,17:30,FC Koln,Ein Frankfurt,1,0,1.61,2.3
+D1,20/02/2022,14:30,Bayern Munich,Greuther Furth,4,1,1.14,5.5
+D1,20/02/2022,16:30,Dortmund,M'gladbach,6,0,1.44,2.75
+D1,20/02/2022,18:30,Hertha,RB Leipzig,1,6,1.66,2.2
+D1,25/02/2022,19:30,Hoffenheim,Stuttgart,2,1,1.53,2.5
+D1,26/02/2022,14:30,Freiburg,Hertha,3,0,1.72,2.1
+D1,26/02/2022,14:30,Greuther Furth,FC Koln,1,1,1.72,2.1
+D1,26/02/2022,14:30,Leverkusen,Bielefeld,3,0,1.53,2.5
+D1,26/02/2022,14:30,M'gladbach,Wolfsburg,2,2,1.8,2
+D1,26/02/2022,14:30,Union Berlin,Mainz,3,1,2.2,1.66
+D1,26/02/2022,17:30,Ein Frankfurt,Bayern Munich,0,1,1.33,3.4
+D1,27/02/2022,14:30,Bochum,RB Leipzig,0,1,1.66,2.2
+D1,27/02/2022,16:30,Augsburg,Dortmund,1,1,1.5,2.62
+D1,4/03/2022,19:30,Bielefeld,Augsburg,0,1,2.1,1.72
+D1,5/03/2022,14:30,Bayern Munich,Leverkusen,1,1,1.25,4
+D1,5/03/2022,14:30,Bochum,Greuther Furth,2,1,2,1.9
+D1,5/03/2022,14:30,Hertha,Ein Frankfurt,1,4,1.72,2.1
+D1,5/03/2022,14:30,RB Leipzig,Freiburg,1,1,1.66,2.2
+D1,5/03/2022,14:30,Wolfsburg,Union Berlin,1,0,2.2,1.66
+D1,5/03/2022,17:30,Stuttgart,M'gladbach,3,2,1.72,2.1
+D1,6/03/2022,16:30,FC Koln,Hoffenheim,0,1,1.53,2.5
+D1,12/03/2022,14:30,Freiburg,Wolfsburg,3,2,2.1,1.72
+D1,12/03/2022,14:30,Hoffenheim,Bayern Munich,1,1,1.28,3.75
+D1,12/03/2022,14:30,Union Berlin,Stuttgart,1,1,2.03,1.87
+D1,12/03/2022,17:30,M'gladbach,Hertha,2,0,1.53,2.5
+D1,13/03/2022,14:30,Leverkusen,FC Koln,0,1,1.5,2.62
+D1,13/03/2022,16:30,Dortmund,Bielefeld,1,0,1.44,2.75
+D1,13/03/2022,16:30,Ein Frankfurt,Bochum,2,1,1.8,2
+D1,13/03/2022,18:30,Greuther Furth,RB Leipzig,1,6,1.57,2.37
+D1,16/03/2022,17:30,Mainz,Dortmund,0,1,1.61,2.3
+D1,18/03/2022,19:30,Bochum,M'gladbach,0,2,1.72,2.1
+D1,19/03/2022,14:30,Greuther Furth,Freiburg,0,0,1.8,2
+D1,19/03/2022,14:30,Hertha,Hoffenheim,3,0,1.57,2.37
+D1,19/03/2022,14:30,Mainz,Bielefeld,4,0,2.2,1.66
+D1,19/03/2022,14:30,Stuttgart,Augsburg,3,2,1.96,1.94
+D1,19/03/2022,17:30,Bayern Munich,Union Berlin,4,0,1.3,3.5
+D1,20/03/2022,14:30,RB Leipzig,Ein Frankfurt,0,0,1.57,2.37
+D1,20/03/2022,16:30,Wolfsburg,Leverkusen,0,2,1.72,2.1
+D1,20/03/2022,18:30,FC Koln,Dortmund,1,1,1.57,2.37
+D1,1/04/2022,19:30,Union Berlin,FC Koln,1,0,2.1,1.72
+D1,2/04/2022,14:30,Bielefeld,Stuttgart,1,1,2.03,1.87
+D1,2/04/2022,14:30,Ein Frankfurt,Greuther Furth,0,0,1.61,2.3
+D1,2/04/2022,14:30,Freiburg,Bayern Munich,1,4,1.44,2.75
+D1,2/04/2022,14:30,Hoffenheim,Bochum,1,2,1.57,2.37
+D1,2/04/2022,14:30,Leverkusen,Hertha,2,1,1.44,2.75
+D1,2/04/2022,17:30,Dortmund,RB Leipzig,1,4,1.53,2.5
+D1,3/04/2022,14:30,Augsburg,Wolfsburg,3,0,2.1,1.72
+D1,3/04/2022,16:30,M'gladbach,Mainz,1,1,1.72,2.1
+D1,6/04/2022,17:30,Augsburg,Mainz,2,1,2.06,1.84
+D1,8/04/2022,19:30,Stuttgart,Dortmund,0,2,1.61,2.3
+D1,9/04/2022,14:30,Bayern Munich,Augsburg,1,0,1.22,4.33
+D1,9/04/2022,14:30,FC Koln,Mainz,3,2,1.97,1.93
+D1,9/04/2022,14:30,Greuther Furth,M'gladbach,0,2,1.66,2.2
+D1,9/04/2022,14:30,Wolfsburg,Bielefeld,4,0,1.97,1.93
+D1,9/04/2022,17:30,Hertha,Union Berlin,1,4,2.2,1.66
+D1,10/04/2022,14:30,Bochum,Leverkusen,0,0,1.61,2.3
+D1,10/04/2022,16:30,Ein Frankfurt,Freiburg,1,2,1.8,2.1
+D1,10/04/2022,18:30,RB Leipzig,Hoffenheim,3,0,1.44,2.75
+D1,16/04/2022,14:30,Augsburg,Hertha,0,1,1.91,1.99
+D1,16/04/2022,14:30,Dortmund,Wolfsburg,6,1,1.57,2.37
+D1,16/04/2022,14:30,Freiburg,Bochum,3,0,1.93,1.97
+D1,16/04/2022,14:30,Mainz,Stuttgart,0,0,1.95,1.95
+D1,16/04/2022,17:30,M'gladbach,FC Koln,1,3,1.61,2.3
+D1,17/04/2022,14:30,Bielefeld,Bayern Munich,0,3,1.33,3.4
+D1,17/04/2022,16:30,Hoffenheim,Greuther Furth,0,0,1.4,3
+D1,17/04/2022,16:30,Union Berlin,Ein Frankfurt,2,0,2.04,1.86
+D1,17/04/2022,18:30,Leverkusen,RB Leipzig,0,1,1.66,2.2
+D1,22/04/2022,19:30,Wolfsburg,Mainz,5,0,1.93,1.97
+D1,23/04/2022,14:30,Ein Frankfurt,Hoffenheim,2,2,1.53,2.5
+D1,23/04/2022,14:30,FC Koln,Bielefeld,3,1,1.72,2.1
+D1,23/04/2022,14:30,Freiburg,M'gladbach,3,3,1.57,2.37
+D1,23/04/2022,14:30,Greuther Furth,Leverkusen,1,4,1.53,2.5
+D1,23/04/2022,14:30,RB Leipzig,Union Berlin,1,2,2,1.9
+D1,23/04/2022,17:30,Bayern Munich,Dortmund,3,1,1.25,4
+D1,24/04/2022,14:30,Bochum,Augsburg,0,2,2.01,1.89
+D1,24/04/2022,16:30,Hertha,Stuttgart,2,0,1.98,1.92
+D1,29/04/2022,19:30,Union Berlin,Greuther Furth,1,1,1.8,2
+D1,30/04/2022,14:30,Augsburg,FC Koln,1,4,1.84,2.06
+D1,30/04/2022,14:30,Bielefeld,Hertha,1,1,2.1,1.72
+D1,30/04/2022,14:30,Dortmund,Bochum,3,4,1.44,2.75
+D1,30/04/2022,14:30,Mainz,Bayern Munich,3,1,1.44,2.75
+D1,30/04/2022,14:30,Stuttgart,Wolfsburg,1,1,1.72,2.1
+D1,30/04/2022,17:30,Hoffenheim,Freiburg,3,4,1.66,2.2
+D1,2/05/2022,19:30,Leverkusen,Ein Frankfurt,2,0,1.44,2.75
+D1,2/05/2022,19:30,M'gladbach,RB Leipzig,3,1,1.57,2.37
+D1,6/05/2022,19:30,Bochum,Bielefeld,2,1,1.8,2
+D1,7/05/2022,14:30,FC Koln,Wolfsburg,0,1,1.53,2.5
+D1,7/05/2022,14:30,Freiburg,Union Berlin,1,4,1.8,2
+D1,7/05/2022,14:30,Greuther Furth,Dortmund,1,3,1.36,3.2
+D1,7/05/2022,14:30,Hoffenheim,Leverkusen,2,4,1.44,2.75
+D1,7/05/2022,17:30,Hertha,Mainz,1,2,1.87,2.03
+D1,8/05/2022,14:30,Ein Frankfurt,M'gladbach,1,1,1.4,3
+D1,8/05/2022,16:30,Bayern Munich,Stuttgart,2,2,1.3,3.5
+D1,8/05/2022,18:30,RB Leipzig,Augsburg,4,0,1.5,2.62
+D1,14/05/2022,14:30,Augsburg,Greuther Furth,2,1,1.4,3
+D1,14/05/2022,14:30,Bielefeld,RB Leipzig,1,1,1.4,3
+D1,14/05/2022,14:30,Dortmund,Hertha,2,1,1.3,3.5
+D1,14/05/2022,14:30,Leverkusen,Freiburg,2,1,1.4,3
+D1,14/05/2022,14:30,Mainz,Ein Frankfurt,2,2,1.4,3
+D1,14/05/2022,14:30,M'gladbach,Hoffenheim,5,1,1.22,4.33
+D1,14/05/2022,14:30,Stuttgart,FC Koln,2,1,1.4,3
+D1,14/05/2022,14:30,Union Berlin,Bochum,3,2,1.53,2.5
+D1,14/05/2022,14:30,Wolfsburg,Bayern Munich,2,2,1.22,4.33
+D1,5/08/2022,19:30,Ein Frankfurt,Bayern Munich,1,6,1.4,3
+D1,6/08/2022,14:30,Augsburg,Freiburg,0,4,1.92,1.98
+D1,6/08/2022,14:30,Bochum,Mainz,1,2,1.96,1.94
+D1,6/08/2022,14:30,M'gladbach,Hoffenheim,3,1,1.36,3.2
+D1,6/08/2022,14:30,Union Berlin,Hertha,3,1,2.06,1.84
+D1,6/08/2022,14:30,Wolfsburg,Werder Bremen,2,2,1.8,2
+D1,6/08/2022,17:30,Dortmund,Leverkusen,1,0,1.4,3
+D1,7/08/2022,14:30,Stuttgart,RB Leipzig,1,1,1.72,2.1
+D1,7/08/2022,16:30,FC Koln,Schalke 04,3,1,1.57,2.37
+D1,12/08/2022,19:30,Freiburg,Dortmund,1,3,1.57,2.37
+D1,13/08/2022,14:30,Hertha,Ein Frankfurt,1,1,1.8,2
+D1,13/08/2022,14:30,Hoffenheim,Bochum,3,2,1.5,2.62
+D1,13/08/2022,14:30,Leverkusen,Augsburg,1,2,1.44,2.75
+D1,13/08/2022,14:30,RB Leipzig,FC Koln,2,2,1.57,2.37
+D1,13/08/2022,14:30,Werder Bremen,Stuttgart,2,2,1.66,2.2
+D1,13/08/2022,17:30,Schalke 04,M'gladbach,2,2,1.57,2.37
+D1,14/08/2022,14:30,Mainz,Union Berlin,0,0,2.06,1.84
+D1,14/08/2022,16:30,Bayern Munich,Wolfsburg,2,0,1.22,4.33
+D1,19/08/2022,19:30,M'gladbach,Hertha,1,0,1.5,2.62
+D1,20/08/2022,14:30,Augsburg,Mainz,1,2,1.87,2.03
+D1,20/08/2022,14:30,Dortmund,Werder Bremen,2,3,1.4,3
+D1,20/08/2022,14:30,Leverkusen,Hoffenheim,0,3,1.44,2.75
+D1,20/08/2022,14:30,Stuttgart,Freiburg,0,1,1.72,2.1
+D1,20/08/2022,14:30,Wolfsburg,Schalke 04,0,0,1.66,2.2
+D1,20/08/2022,17:30,Union Berlin,RB Leipzig,2,1,1.91,1.99
+D1,21/08/2022,14:30,Ein Frankfurt,FC Koln,1,1,1.66,2.2
+D1,21/08/2022,16:30,Bochum,Bayern Munich,0,7,1.25,4
+D1,26/08/2022,19:30,Freiburg,Bochum,1,0,1.61,2.3
+D1,27/08/2022,14:30,Hertha,Dortmund,0,1,1.5,2.62
+D1,27/08/2022,14:30,Hoffenheim,Augsburg,1,0,1.5,2.62
+D1,27/08/2022,14:30,Mainz,Leverkusen,0,3,1.61,2.3
+D1,27/08/2022,14:30,RB Leipzig,Wolfsburg,2,0,1.57,2.37
+D1,27/08/2022,14:30,Schalke 04,Union Berlin,1,6,1.96,1.94
+D1,27/08/2022,17:30,Bayern Munich,M'gladbach,1,1,1.2,4.5
+D1,28/08/2022,14:30,FC Koln,Stuttgart,0,0,1.66,2.2
+D1,28/08/2022,16:30,Werder Bremen,Ein Frankfurt,3,4,1.61,2.3
+D1,2/09/2022,19:30,Dortmund,Hoffenheim,1,0,1.4,3
+D1,3/09/2022,14:30,Bochum,Werder Bremen,0,2,1.66,2.2
+D1,3/09/2022,14:30,Leverkusen,Freiburg,2,3,1.57,2.37
+D1,3/09/2022,14:30,Stuttgart,Schalke 04,1,1,1.72,2.1
+D1,3/09/2022,14:30,Union Berlin,Bayern Munich,1,1,1.4,3
+D1,3/09/2022,14:30,Wolfsburg,FC Koln,2,4,1.8,2
+D1,3/09/2022,17:30,Ein Frankfurt,RB Leipzig,4,0,1.61,2.3
+D1,4/09/2022,14:30,Augsburg,Hertha,0,2,1.89,2.01
+D1,4/09/2022,16:30,M'gladbach,Mainz,0,1,1.66,2.2
+D1,9/09/2022,19:30,Werder Bremen,Augsburg,0,1,1.57,2.37
+D1,10/09/2022,14:30,Bayern Munich,Stuttgart,2,2,1.22,4.33
+D1,10/09/2022,14:30,Ein Frankfurt,Wolfsburg,0,1,1.66,2.2
+D1,10/09/2022,14:30,Hertha,Leverkusen,2,2,1.53,2.5
+D1,10/09/2022,14:30,Hoffenheim,Mainz,4,1,1.66,2.2
+D1,10/09/2022,14:30,RB Leipzig,Dortmund,3,0,1.57,2.37
+D1,10/09/2022,17:30,Schalke 04,Bochum,3,1,1.72,2.1
+D1,11/09/2022,14:30,FC Koln,Union Berlin,0,1,1.94,1.96
+D1,11/09/2022,16:30,Freiburg,M'gladbach,0,0,1.57,2.37
+D1,16/09/2022,19:30,Mainz,Hertha,1,1,1.72,2.1
+D1,17/09/2022,14:30,Augsburg,Bayern Munich,1,0,1.28,3.75
+D1,17/09/2022,14:30,Dortmund,Schalke 04,1,0,1.44,2.75
+D1,17/09/2022,14:30,Leverkusen,Werder Bremen,1,1,1.5,2.62
+D1,17/09/2022,14:30,Stuttgart,Ein Frankfurt,1,3,1.66,2.2
+D1,17/09/2022,17:30,M'gladbach,RB Leipzig,3,0,1.57,2.37
+D1,18/09/2022,14:30,Union Berlin,Wolfsburg,2,0,2.03,1.87
+D1,18/09/2022,16:30,Bochum,FC Koln,1,1,1.72,2.1
+D1,18/09/2022,18:30,Hoffenheim,Freiburg,0,0,1.57,2.37
+D1,30/09/2022,19:30,Bayern Munich,Leverkusen,4,0,1.3,3.5
+D1,1/10/2022,14:30,Ein Frankfurt,Union Berlin,2,0,1.99,1.91
+D1,1/10/2022,14:30,FC Koln,Dortmund,3,2,1.57,2.37
+D1,1/10/2022,14:30,Freiburg,Mainz,2,1,1.92,1.98
+D1,1/10/2022,14:30,RB Leipzig,Bochum,4,0,1.44,2.75
+D1,1/10/2022,14:30,Wolfsburg,Stuttgart,3,2,1.99,1.91
+D1,1/10/2022,17:30,Werder Bremen,M'gladbach,5,1,1.57,2.37
+D1,2/10/2022,14:30,Hertha,Hoffenheim,1,1,1.57,2.37
+D1,2/10/2022,16:30,Schalke 04,Augsburg,2,3,1.8,2
+D1,7/10/2022,19:30,Hoffenheim,Werder Bremen,1,2,1.57,2.37
+D1,8/10/2022,14:30,Augsburg,Wolfsburg,1,1,1.97,1.93
+D1,8/10/2022,14:30,Bochum,Ein Frankfurt,3,0,1.66,2.2
+D1,8/10/2022,14:30,Leverkusen,Schalke 04,4,0,1.5,2.62
+D1,8/10/2022,14:30,Mainz,RB Leipzig,1,1,1.72,2.1
+D1,8/10/2022,17:30,Dortmund,Bayern Munich,2,2,1.36,3.2
+D1,9/10/2022,14:30,M'gladbach,FC Koln,5,2,1.61,2.3
+D1,9/10/2022,16:30,Hertha,Freiburg,2,2,1.91,1.99
+D1,9/10/2022,18:30,Stuttgart,Union Berlin,0,1,2.1,1.72
+D1,14/10/2022,19:30,Schalke 04,Hoffenheim,0,3,1.66,2.2
+D1,15/10/2022,14:30,Ein Frankfurt,Leverkusen,5,1,1.61,2.3
+D1,15/10/2022,14:30,Stuttgart,Bochum,4,1,1.8,2
+D1,15/10/2022,14:30,Werder Bremen,Mainz,0,2,1.72,2.1
+D1,15/10/2022,14:30,Wolfsburg,M'gladbach,2,2,1.66,2.2
+D1,15/10/2022,17:30,RB Leipzig,Hertha,3,2,1.53,2.5
+D1,16/10/2022,14:30,FC Koln,Augsburg,3,2,1.61,2.3
+D1,16/10/2022,16:30,Union Berlin,Dortmund,2,0,1.97,1.93
+D1,16/10/2022,18:30,Bayern Munich,Freiburg,5,0,1.36,3.2
+D1,21/10/2022,19:30,Mainz,FC Koln,5,0,1.72,2.1
+D1,22/10/2022,14:30,Augsburg,RB Leipzig,3,3,1.57,2.37
+D1,22/10/2022,14:30,Dortmund,Stuttgart,5,0,1.57,2.37
+D1,22/10/2022,14:30,Freiburg,Werder Bremen,2,0,1.66,2.2
+D1,22/10/2022,14:30,Hoffenheim,Bayern Munich,0,2,1.33,3.4
+D1,22/10/2022,14:30,Leverkusen,Wolfsburg,2,2,1.57,2.37
+D1,22/10/2022,17:30,M'gladbach,Ein Frankfurt,1,3,1.61,2.3
+D1,23/10/2022,14:30,Bochum,Union Berlin,2,1,2.1,1.72
+D1,23/10/2022,16:30,Hertha,Schalke 04,2,1,1.72,2.1
+D1,28/10/2022,19:30,Werder Bremen,Hertha,1,0,1.57,2.37
+D1,29/10/2022,14:30,Bayern Munich,Mainz,6,2,1.33,3.4
+D1,29/10/2022,14:30,RB Leipzig,Leverkusen,2,0,1.53,2.5
+D1,29/10/2022,14:30,Stuttgart,Augsburg,2,1,1.72,2.1
+D1,29/10/2022,14:30,Wolfsburg,Bochum,4,0,1.72,2.1
+D1,29/10/2022,17:30,Ein Frankfurt,Dortmund,1,2,1.61,2.3
+D1,30/10/2022,14:30,Union Berlin,M'gladbach,2,1,1.9,2
+D1,30/10/2022,16:30,Schalke 04,Freiburg,0,2,1.72,2.1
+D1,30/10/2022,18:30,FC Koln,Hoffenheim,1,1,1.57,2.37
+D1,4/11/2022,19:30,M'gladbach,Stuttgart,3,1,1.57,2.37
+D1,5/11/2022,14:30,Augsburg,Ein Frankfurt,1,2,1.57,2.37
+D1,5/11/2022,14:30,Dortmund,Bochum,3,0,1.4,3
+D1,5/11/2022,14:30,Hertha,Bayern Munich,2,3,1.3,3.5
+D1,5/11/2022,14:30,Hoffenheim,RB Leipzig,1,3,1.66,2.2
+D1,5/11/2022,14:30,Mainz,Wolfsburg,0,3,1.87,2.03
+D1,5/11/2022,17:30,Werder Bremen,Schalke 04,2,1,1.61,2.3
+D1,6/11/2022,14:30,Leverkusen,Union Berlin,5,0,2,1.9
+D1,6/11/2022,16:30,Freiburg,FC Koln,2,0,1.72,2.1
+D1,8/11/2022,17:30,Wolfsburg,Dortmund,2,0,1.72,2.1
+D1,8/11/2022,19:30,Bayern Munich,Werder Bremen,6,1,1.22,4.33
+D1,8/11/2022,19:30,Bochum,M'gladbach,2,1,1.72,2.1
+D1,8/11/2022,19:30,Stuttgart,Hertha,2,1,1.72,2.1
+D1,9/11/2022,17:30,FC Koln,Leverkusen,1,2,1.66,2.2
+D1,9/11/2022,19:30,Ein Frankfurt,Hoffenheim,4,2,1.57,2.37
+D1,9/11/2022,19:30,RB Leipzig,Freiburg,3,1,1.66,2.2
+D1,9/11/2022,19:30,Schalke 04,Mainz,1,0,1.72,2.1
+D1,9/11/2022,19:30,Union Berlin,Augsburg,2,2,1.87,2.03
+D1,11/11/2022,19:30,M'gladbach,Dortmund,4,2,1.57,2.37
+D1,12/11/2022,14:30,Augsburg,Bochum,0,1,1.72,2.1
+D1,12/11/2022,14:30,Hertha,FC Koln,2,0,1.72,2.1
+D1,12/11/2022,14:30,Hoffenheim,Wolfsburg,1,2,1.66,2.2
+D1,12/11/2022,14:30,Leverkusen,Stuttgart,2,0,1.57,2.37
+D1,12/11/2022,14:30,Werder Bremen,RB Leipzig,1,2,1.57,2.37
+D1,12/11/2022,17:30,Schalke 04,Bayern Munich,0,2,1.28,3.75
+D1,13/11/2022,14:30,Mainz,Ein Frankfurt,1,1,1.72,2.1
+D1,13/11/2022,16:30,Freiburg,Union Berlin,4,1,2.2,1.66
+D1,20/01/2023,19:30,RB Leipzig,Bayern Munich,1,1,1.5,2.63
+D1,21/01/2023,14:30,Bochum,Hertha,3,1,1.86,2.04
+D1,21/01/2023,14:30,Ein Frankfurt,Schalke 04,3,0,1.53,2.5
+D1,21/01/2023,14:30,Stuttgart,Mainz,1,1,1.86,2.04
+D1,21/01/2023,14:30,Union Berlin,Hoffenheim,3,1,1.97,1.93
+D1,21/01/2023,14:30,Wolfsburg,Freiburg,6,0,1.96,1.94
+D1,21/01/2023,17:30,FC Koln,Werder Bremen,7,1,1.62,2.3
+D1,22/01/2023,14:30,Dortmund,Augsburg,4,3,1.36,3.2
+D1,22/01/2023,16:30,M'gladbach,Leverkusen,2,3,1.57,2.38
+D1,24/01/2023,17:30,Schalke 04,RB Leipzig,1,6,1.67,2.2
+D1,24/01/2023,19:30,Bayern Munich,FC Koln,1,1,1.29,3.75
+D1,24/01/2023,19:30,Hertha,Wolfsburg,0,5,1.94,1.96
+D1,24/01/2023,19:30,Hoffenheim,Stuttgart,2,2,1.73,2.1
+D1,25/01/2023,17:30,Mainz,Dortmund,1,2,1.67,2.2
+D1,25/01/2023,19:30,Augsburg,M'gladbach,1,0,1.62,2.3
+D1,25/01/2023,19:30,Freiburg,Ein Frankfurt,1,1,1.8,2
+D1,25/01/2023,19:30,Leverkusen,Bochum,2,0,1.62,2.3
+D1,25/01/2023,19:30,Werder Bremen,Union Berlin,1,2,2.1,1.73
+D1,27/01/2023,19:30,RB Leipzig,Stuttgart,2,1,1.53,2.5
+D1,28/01/2023,14:30,Freiburg,Augsburg,3,1,1.67,2.2
+D1,28/01/2023,14:30,Hertha,Union Berlin,0,2,2.2,1.67
+D1,28/01/2023,14:30,Hoffenheim,M'gladbach,1,4,1.5,2.63
+D1,28/01/2023,14:30,Mainz,Bochum,5,2,1.8,2
+D1,28/01/2023,14:30,Werder Bremen,Wolfsburg,2,1,1.73,2.1
+D1,28/01/2023,17:30,Bayern Munich,Ein Frankfurt,1,1,1.3,3.5
+D1,29/01/2023,14:30,Schalke 04,FC Koln,0,0,1.8,2
+D1,29/01/2023,16:30,Leverkusen,Dortmund,0,2,1.53,2.5
+D1,3/02/2023,19:30,Augsburg,Leverkusen,1,0,1.67,2.2
+D1,4/02/2023,14:30,Bochum,Hoffenheim,5,2,1.67,2.2
+D1,4/02/2023,14:30,Dortmund,Freiburg,5,1,1.67,2.2
+D1,4/02/2023,14:30,Ein Frankfurt,Hertha,3,0,1.62,2.3
+D1,4/02/2023,14:30,FC Koln,RB Leipzig,0,0,1.73,2.1
+D1,4/02/2023,14:30,Union Berlin,Mainz,2,1,2.2,1.67
+D1,4/02/2023,17:30,M'gladbach,Schalke 04,0,0,1.57,2.38
+D1,5/02/2023,14:30,Stuttgart,Werder Bremen,0,2,1.67,2.2
+D1,5/02/2023,16:30,Wolfsburg,Bayern Munich,2,4,1.44,2.75
+D1,10/02/2023,19:30,Schalke 04,Wolfsburg,0,0,1.87,2.03
+D1,11/02/2023,14:30,Bayern Munich,Bochum,3,0,1.25,4
+D1,11/02/2023,14:30,Freiburg,Stuttgart,2,1,1.96,1.94
+D1,11/02/2023,14:30,Hoffenheim,Leverkusen,1,3,1.67,2.2
+D1,11/02/2023,14:30,Mainz,Augsburg,3,1,1.8,2
+D1,11/02/2023,14:30,Werder Bremen,Dortmund,0,2,1.5,2.63
+D1,11/02/2023,17:30,RB Leipzig,Union Berlin,1,2,2.1,1.73
+D1,12/02/2023,14:30,Hertha,M'gladbach,4,1,1.73,2.1
+D1,12/02/2023,16:30,FC Koln,Ein Frankfurt,3,0,1.73,2.1
+D1,17/02/2023,19:30,Augsburg,Hoffenheim,1,0,1.73,2.1
+D1,18/02/2023,14:30,Bochum,Freiburg,0,2,1.93,1.97
+D1,18/02/2023,14:30,M'gladbach,Bayern Munich,3,2,1.33,3.4
+D1,18/02/2023,14:30,Stuttgart,FC Koln,3,0,1.94,1.96
+D1,18/02/2023,14:30,Wolfsburg,RB Leipzig,0,3,1.8,2
+D1,18/02/2023,17:30,Ein Frankfurt,Werder Bremen,2,0,1.57,2.38
+D1,19/02/2023,14:30,Union Berlin,Schalke 04,0,0,2,1.8
+D1,19/02/2023,16:30,Dortmund,Hertha,4,1,1.5,2.63
+D1,19/02/2023,18:30,Leverkusen,Mainz,2,3,1.73,2.1
+D1,24/02/2023,19:30,Mainz,M'gladbach,4,0,1.73,2.1
+D1,25/02/2023,14:30,FC Koln,Wolfsburg,0,2,1.88,2.02
+D1,25/02/2023,14:30,Hertha,Augsburg,2,0,1.73,2.1
+D1,25/02/2023,14:30,Hoffenheim,Dortmund,0,1,1.53,2.5
+D1,25/02/2023,14:30,RB Leipzig,Ein Frankfurt,2,1,1.67,2.2
+D1,25/02/2023,14:30,Werder Bremen,Bochum,3,0,1.73,2.1
+D1,25/02/2023,17:30,Schalke 04,Stuttgart,2,1,2,1.8
+D1,26/02/2023,14:30,Freiburg,Leverkusen,1,1,1.84,2.06
+D1,26/02/2023,16:30,Bayern Munich,Union Berlin,3,0,1.57,2.38
+D1,3/03/2023,19:30,Dortmund,RB Leipzig,2,1,1.62,2.3
+D1,4/03/2023,14:30,Augsburg,Werder Bremen,2,1,1.73,2.1
+D1,4/03/2023,14:30,Bochum,Schalke 04,0,2,1.96,1.94
+D1,4/03/2023,14:30,Mainz,Hoffenheim,1,0,1.73,2.1
+D1,4/03/2023,14:30,M'gladbach,Freiburg,0,0,1.73,2.1
+D1,4/03/2023,14:30,Union Berlin,FC Koln,0,0,2.3,1.62
+D1,4/03/2023,17:30,Stuttgart,Bayern Munich,1,2,1.44,2.75
+D1,5/03/2023,14:30,Leverkusen,Hertha,4,1,1.67,2.2
+D1,5/03/2023,16:30,Wolfsburg,Ein Frankfurt,2,2,1.8,2
+D1,10/03/2023,19:30,FC Koln,Bochum,0,2,1.92,2.01
+D1,11/03/2023,14:30,Bayern Munich,Augsburg,5,3,1.22,4.33
+D1,11/03/2023,14:30,Ein Frankfurt,Stuttgart,1,1,1.87,2.06
+D1,11/03/2023,14:30,Hertha,Mainz,1,1,1.93,2
+D1,11/03/2023,14:30,RB Leipzig,M'gladbach,3,0,1.5,2.63
+D1,11/03/2023,17:30,Schalke 04,Dortmund,2,2,1.67,2.2
+D1,12/03/2023,14:30,Freiburg,Hoffenheim,2,1,1.8,2
+D1,12/03/2023,16:30,Werder Bremen,Leverkusen,2,3,1.62,2.3
+D1,12/03/2023,18:30,Wolfsburg,Union Berlin,1,1,2.3,1.62
+D1,17/03/2023,19:30,M'gladbach,Werder Bremen,2,2,1.57,2.38
+D1,18/03/2023,14:30,Augsburg,Schalke 04,1,1,2.04,1.86
+D1,18/03/2023,14:30,Bochum,RB Leipzig,1,0,1.73,2.1
+D1,18/03/2023,14:30,Hoffenheim,Hertha,3,1,1.88,2.02
+D1,18/03/2023,14:30,Stuttgart,Wolfsburg,0,1,1.99,1.91
+D1,18/03/2023,17:30,Dortmund,FC Koln,6,1,1.62,2.3
+D1,19/03/2023,14:30,Union Berlin,Ein Frankfurt,2,0,2.3,1.62
+D1,19/03/2023,16:30,Leverkusen,Bayern Munich,2,1,1.4,3
+D1,19/03/2023,18:30,Mainz,Freiburg,1,1,2,1.9
+D1,31/03/2023,19:30,Ein Frankfurt,Bochum,1,1,1.73,2.1
+D1,1/04/2023,14:30,Freiburg,Hertha,1,1,1.99,1.91
+D1,1/04/2023,14:30,RB Leipzig,Mainz,0,3,1.67,2.2
+D1,1/04/2023,14:30,Schalke 04,Leverkusen,0,3,1.9,2
+D1,1/04/2023,14:30,Union Berlin,Stuttgart,3,0,2.38,1.57
+D1,1/04/2023,14:30,Wolfsburg,Augsburg,2,2,1.73,2.1
+D1,1/04/2023,17:30,Bayern Munich,Dortmund,4,2,1.33,3.4
+D1,2/04/2023,14:30,FC Koln,M'gladbach,0,0,1.73,2.1
+D1,2/04/2023,16:30,Werder Bremen,Hoffenheim,1,2,1.73,2.1
+D1,8/04/2023,14:30,Augsburg,FC Koln,1,3,1.88,2.02
+D1,8/04/2023,14:30,Dortmund,Union Berlin,2,1,1.87,2.03
+D1,8/04/2023,14:30,Freiburg,Bayern Munich,0,1,1.53,2.5
+D1,8/04/2023,14:30,Leverkusen,Ein Frankfurt,3,1,1.67,2.2
+D1,8/04/2023,14:30,Mainz,Werder Bremen,2,2,1.73,2.1
+D1,8/04/2023,17:30,Hertha,RB Leipzig,0,1,1.8,2
+D1,9/04/2023,14:30,M'gladbach,Wolfsburg,2,0,1.73,2.1
+D1,9/04/2023,16:30,Bochum,Stuttgart,2,3,1.99,1.91
+D1,9/04/2023,18:30,Hoffenheim,Schalke 04,2,0,1.73,2.1
+D1,14/04/2023,19:30,Schalke 04,Hertha,5,2,2.1,1.73
+D1,15/04/2023,14:30,Bayern Munich,Hoffenheim,1,1,1.25,4
+D1,15/04/2023,14:30,FC Koln,Mainz,1,1,2.05,1.85
+D1,15/04/2023,14:30,RB Leipzig,Augsburg,3,2,1.44,2.75
+D1,15/04/2023,14:30,Stuttgart,Dortmund,3,3,1.67,2.2
+D1,15/04/2023,17:30,Ein Frankfurt,M'gladbach,1,1,1.62,2.3
+D1,16/04/2023,14:30,Werder Bremen,Freiburg,1,2,1.89,2.01
+D1,16/04/2023,16:30,Union Berlin,Bochum,1,1,2.1,1.73
+D1,16/04/2023,18:30,Wolfsburg,Leverkusen,0,0,1.73,2.1
+D1,21/04/2023,19:30,Augsburg,Stuttgart,1,1,1.73,2.1
+D1,22/04/2023,14:30,Bochum,Wolfsburg,1,5,1.91,1.99
+D1,22/04/2023,14:30,Hertha,Werder Bremen,2,4,1.98,1.92
+D1,22/04/2023,14:30,Hoffenheim,FC Koln,1,3,1.8,2
+D1,22/04/2023,14:30,Mainz,Bayern Munich,3,1,1.5,2.63
+D1,22/04/2023,17:30,Dortmund,Ein Frankfurt,4,0,1.5,2.63
+D1,23/04/2023,14:30,Freiburg,Schalke 04,4,0,2.06,1.84
+D1,23/04/2023,16:30,Leverkusen,RB Leipzig,2,0,1.73,2.1
+D1,23/04/2023,18:30,M'gladbach,Union Berlin,0,1,2.1,1.73
+D1,28/04/2023,19:30,Bochum,Dortmund,1,1,1.4,3
+D1,29/04/2023,14:30,Ein Frankfurt,Augsburg,1,1,1.62,2.3
+D1,29/04/2023,14:30,FC Koln,Freiburg,0,1,2.1,1.73
+D1,29/04/2023,14:30,RB Leipzig,Hoffenheim,1,0,1.57,2.38
+D1,29/04/2023,14:30,Stuttgart,M'gladbach,2,1,1.73,2.1
+D1,29/04/2023,14:30,Union Berlin,Leverkusen,0,0,2,1.8
+D1,29/04/2023,17:30,Schalke 04,Werder Bremen,2,1,1.88,2.02
+D1,30/04/2023,14:30,Bayern Munich,Hertha,2,0,1.29,3.75
+D1,30/04/2023,16:30,Wolfsburg,Mainz,3,0,1.86,2.04
+D1,5/05/2023,19:30,Leverkusen,FC Koln,1,2,1.73,2.1
+D1,5/05/2023,19:30,Mainz,Schalke 04,2,3,1.73,2.1
+D1,6/05/2023,14:30,Augsburg,Union Berlin,1,0,2.2,1.67
+D1,6/05/2023,14:30,Freiburg,RB Leipzig,0,1,1.93,1.97
+D1,6/05/2023,14:30,Hertha,Stuttgart,2,1,1.89,2.01
+D1,6/05/2023,14:30,Hoffenheim,Ein Frankfurt,3,1,1.67,2.2
+D1,6/05/2023,14:30,M'gladbach,Bochum,2,0,1.62,2.3
+D1,6/05/2023,17:30,Werder Bremen,Bayern Munich,1,2,1.33,3.4
+D1,7/05/2023,16:30,Dortmund,Wolfsburg,6,0,1.4,3
+D1,12/05/2023,19:30,FC Koln,Hertha,5,2,1.84,2.06
+D1,13/05/2023,14:30,Bayern Munich,Schalke 04,6,0,1.22,4.33
+D1,13/05/2023,14:30,Bochum,Augsburg,3,2,1.86,2.04
+D1,13/05/2023,14:30,Ein Frankfurt,Mainz,3,0,1.73,2.1
+D1,13/05/2023,14:30,Union Berlin,Freiburg,4,2,2.38,1.57
+D1,13/05/2023,14:30,Wolfsburg,Hoffenheim,2,1,1.57,2.38
+D1,13/05/2023,17:30,Dortmund,M'gladbach,5,2,1.25,4
+D1,14/05/2023,14:30,Stuttgart,Leverkusen,1,1,1.73,2.1
+D1,14/05/2023,16:30,RB Leipzig,Werder Bremen,2,1,1.4,3
+D1,19/05/2023,19:30,Freiburg,Wolfsburg,2,0,1.67,2.2
+D1,20/05/2023,14:30,Hertha,Bochum,1,1,1.67,2.2
+D1,20/05/2023,14:30,Hoffenheim,Union Berlin,4,2,2,1.9
+D1,20/05/2023,14:30,Schalke 04,Ein Frankfurt,2,2,1.67,2.2
+D1,20/05/2023,14:30,Werder Bremen,FC Koln,1,1,1.67,2.2
+D1,20/05/2023,17:30,Bayern Munich,RB Leipzig,1,3,1.36,3.2
+D1,21/05/2023,14:30,Mainz,Stuttgart,1,4,1.73,2.1
+D1,21/05/2023,16:30,Augsburg,Dortmund,0,3,1.36,3.2
+D1,21/05/2023,18:30,Leverkusen,M'gladbach,2,2,1.44,2.75
+D1,27/05/2023,14:30,Bochum,Leverkusen,3,0,1.44,2.75
+D1,27/05/2023,14:30,Dortmund,Mainz,2,2,1.22,4.33
+D1,27/05/2023,14:30,Ein Frankfurt,Freiburg,2,1,1.53,2.5
+D1,27/05/2023,14:30,FC Koln,Bayern Munich,1,2,1.29,3.75
+D1,27/05/2023,14:30,M'gladbach,Augsburg,2,0,1.5,2.63
+D1,27/05/2023,14:30,RB Leipzig,Schalke 04,4,2,1.36,3.2
+D1,27/05/2023,14:30,Stuttgart,Hoffenheim,1,1,1.44,2.75
+D1,27/05/2023,14:30,Union Berlin,Werder Bremen,1,0,1.67,2.2
+D1,27/05/2023,14:30,Wolfsburg,Hertha,1,2,1.4,3
+D1,18/08/2023,19:30,Werder Bremen,Bayern Munich,0,4,1.33,3.4
+D1,19/08/2023,14:30,Augsburg,M'gladbach,4,4,1.62,2.3
+D1,19/08/2023,14:30,Hoffenheim,Freiburg,1,2,1.67,2.2
+D1,19/08/2023,14:30,Leverkusen,RB Leipzig,3,2,1.67,2.2
+D1,19/08/2023,14:30,Stuttgart,Bochum,5,0,1.62,2.3
+D1,19/08/2023,14:30,Wolfsburg,Heidenheim,2,0,1.62,2.3
+D1,19/08/2023,17:30,Dortmund,FC Koln,1,0,1.44,2.75
+D1,20/08/2023,14:30,Union Berlin,Mainz,4,1,2.1,1.73
+D1,20/08/2023,16:30,Ein Frankfurt,Darmstadt,1,0,1.67,2.2
+D1,25/08/2023,19:30,RB Leipzig,Stuttgart,5,1,1.53,2.5
+D1,26/08/2023,14:30,Bochum,Dortmund,1,1,1.36,3.2
+D1,26/08/2023,14:30,Darmstadt,Union Berlin,1,4,2.1,1.73
+D1,26/08/2023,14:30,FC Koln,Wolfsburg,1,2,1.73,2.1
+D1,26/08/2023,14:30,Freiburg,Werder Bremen,1,0,1.67,2.2
+D1,26/08/2023,14:30,Heidenheim,Hoffenheim,2,3,1.67,2.2
+D1,26/08/2023,17:30,M'gladbach,Leverkusen,0,3,1.5,2.63
+D1,27/08/2023,14:30,Mainz,Ein Frankfurt,1,1,1.73,2.1
+D1,27/08/2023,16:30,Bayern Munich,Augsburg,3,1,1.2,4.5
+D1,1/09/2023,19:30,Dortmund,Heidenheim,2,2,1.33,3.4
+D1,2/09/2023,14:30,Augsburg,Bochum,2,2,1.73,2.1
+D1,2/09/2023,14:30,Hoffenheim,Wolfsburg,3,1,1.53,2.5
+D1,2/09/2023,14:30,Leverkusen,Darmstadt,5,1,1.4,3
+D1,2/09/2023,14:30,Stuttgart,Freiburg,5,0,1.73,2.1
+D1,2/09/2023,14:30,Werder Bremen,Mainz,4,0,1.73,2.1
+D1,2/09/2023,17:30,M'gladbach,Bayern Munich,1,2,1.25,4
+D1,3/09/2023,14:30,Ein Frankfurt,FC Koln,1,1,1.97,1.93
+D1,3/09/2023,16:30,Union Berlin,RB Leipzig,0,3,1.97,1.93
+D1,15/09/2023,19:30,Bayern Munich,Leverkusen,2,2,1.36,3.2
+D1,16/09/2023,14:30,FC Koln,Hoffenheim,1,3,1.62,2.3
+D1,16/09/2023,14:30,Freiburg,Dortmund,2,4,1.5,2.63
+D1,16/09/2023,14:30,Mainz,Stuttgart,1,3,1.67,2.2
+D1,16/09/2023,14:30,RB Leipzig,Augsburg,3,0,1.36,3.2
+D1,16/09/2023,14:30,Wolfsburg,Union Berlin,2,1,1.96,1.94
+D1,16/09/2023,17:30,Bochum,Ein Frankfurt,1,1,1.73,2.1
+D1,17/09/2023,14:30,Heidenheim,Werder Bremen,4,2,1.62,2.3
+D1,17/09/2023,16:30,Darmstadt,M'gladbach,3,3,1.73,2.1
+D1,22/09/2023,19:30,Stuttgart,Darmstadt,3,1,1.57,2.38
+D1,23/09/2023,14:30,Augsburg,Mainz,2,1,1.67,2.2
+D1,23/09/2023,14:30,Bayern Munich,Bochum,7,0,1.22,4.33
+D1,23/09/2023,14:30,Dortmund,Wolfsburg,1,0,1.44,2.75
+D1,23/09/2023,14:30,M'gladbach,RB Leipzig,0,1,1.4,3
+D1,23/09/2023,14:30,Union Berlin,Hoffenheim,0,2,1.8,2
+D1,23/09/2023,17:30,Werder Bremen,FC Koln,2,1,1.73,2.1
+D1,24/09/2023,14:30,Leverkusen,Heidenheim,4,1,1.33,3.4
+D1,24/09/2023,16:30,Ein Frankfurt,Freiburg,0,0,1.87,2.03
+D1,29/09/2023,19:30,Hoffenheim,Dortmund,1,3,1.4,3
+D1,30/09/2023,14:30,Bochum,M'gladbach,1,3,1.57,2.38
+D1,30/09/2023,14:30,FC Koln,Stuttgart,0,2,1.67,2.2
+D1,30/09/2023,14:30,Heidenheim,Union Berlin,1,0,1.73,2.1
+D1,30/09/2023,14:30,Mainz,Leverkusen,0,3,1.53,2.5
+D1,30/09/2023,14:30,Wolfsburg,Ein Frankfurt,2,0,1.97,1.93
+D1,30/09/2023,17:30,RB Leipzig,Bayern Munich,2,2,1.4,3
+D1,1/10/2023,14:30,Darmstadt,Werder Bremen,4,2,1.67,2.2
+D1,1/10/2023,16:30,Freiburg,Augsburg,2,0,1.67,2.2
+D1,6/10/2023,19:30,M'gladbach,Mainz,2,2,1.57,2.38
+D1,7/10/2023,14:30,Augsburg,Darmstadt,1,2,1.67,2.2
+D1,7/10/2023,14:30,Dortmund,Union Berlin,4,2,1.62,2.3
+D1,7/10/2023,14:30,RB Leipzig,Bochum,0,0,1.36,3.2
+D1,7/10/2023,14:30,Stuttgart,Wolfsburg,3,1,1.67,2.2
+D1,7/10/2023,17:30,Werder Bremen,Hoffenheim,2,3,1.44,2.75
+D1,8/10/2023,14:30,Leverkusen,FC Koln,3,0,1.5,2.63
+D1,8/10/2023,16:30,Bayern Munich,Freiburg,3,0,1.29,3.75
+D1,8/10/2023,18:30,Ein Frankfurt,Heidenheim,2,0,1.73,2.1
+D1,20/10/2023,19:30,Dortmund,Werder Bremen,1,0,1.29,3.75
+D1,21/10/2023,14:30,Darmstadt,RB Leipzig,1,3,1.53,2.5
+D1,21/10/2023,14:30,Freiburg,Bochum,2,1,1.73,2.1
+D1,21/10/2023,14:30,Hoffenheim,Ein Frankfurt,1,3,1.67,2.2
+D1,21/10/2023,14:30,Union Berlin,Stuttgart,0,3,1.8,2
+D1,21/10/2023,14:30,Wolfsburg,Leverkusen,1,2,1.57,2.38
+D1,21/10/2023,17:30,Mainz,Bayern Munich,1,3,1.3,3.5
+D1,22/10/2023,14:30,FC Koln,M'gladbach,3,1,1.57,2.38
+D1,22/10/2023,16:30,Heidenheim,Augsburg,2,5,1.73,2.1
+D1,27/10/2023,19:30,Bochum,Mainz,2,2,1.73,2.1
+D1,28/10/2023,14:30,Augsburg,Wolfsburg,3,2,1.73,2.1
+D1,28/10/2023,14:30,Bayern Munich,Darmstadt,8,0,1.17,5
+D1,28/10/2023,14:30,M'gladbach,Heidenheim,2,1,1.5,2.63
+D1,28/10/2023,14:30,Stuttgart,Hoffenheim,2,3,1.5,2.63
+D1,28/10/2023,14:30,Werder Bremen,Union Berlin,2,0,1.8,2
+D1,28/10/2023,17:30,RB Leipzig,FC Koln,6,0,1.57,2.38
+D1,29/10/2023,14:30,Ein Frankfurt,Dortmund,3,3,1.67,2.2
+D1,29/10/2023,16:30,Leverkusen,Freiburg,2,1,1.5,2.63
+D1,3/11/2023,19:30,Darmstadt,Bochum,1,2,1.67,2.2
+D1,4/11/2023,14:30,FC Koln,Augsburg,1,1,1.62,2.3
+D1,4/11/2023,14:30,Freiburg,M'gladbach,3,3,1.57,2.38
+D1,4/11/2023,14:30,Hoffenheim,Leverkusen,2,3,1.33,3.4
+D1,4/11/2023,14:30,Mainz,RB Leipzig,2,0,1.62,2.3
+D1,4/11/2023,14:30,Union Berlin,Ein Frankfurt,0,3,2,1.8
+D1,4/11/2023,17:30,Dortmund,Bayern Munich,0,4,1.33,3.4
+D1,5/11/2023,14:30,Wolfsburg,Werder Bremen,2,2,1.44,2.75
+D1,5/11/2023,16:30,Heidenheim,Stuttgart,2,0,1.5,2.63
+D1,10/11/2023,19:30,M'gladbach,Wolfsburg,4,0,1.53,2.5
+D1,11/11/2023,14:30,Augsburg,Hoffenheim,1,1,1.5,2.63
+D1,11/11/2023,14:30,Bayern Munich,Heidenheim,4,2,1.17,5
+D1,11/11/2023,14:30,Darmstadt,Mainz,0,0,1.67,2.2
+D1,11/11/2023,14:30,Stuttgart,Dortmund,2,1,1.44,2.75
+D1,11/11/2023,17:30,Bochum,FC Koln,1,1,1.67,2.2
+D1,12/11/2023,14:30,Leverkusen,Union Berlin,4,0,1.57,2.38
+D1,12/11/2023,16:30,Werder Bremen,Ein Frankfurt,2,2,1.73,2.1
+D1,12/11/2023,18:30,RB Leipzig,Freiburg,3,1,1.57,2.38
+D1,24/11/2023,19:30,FC Koln,Bayern Munich,0,1,1.33,3.4
+D1,25/11/2023,14:30,Dortmund,M'gladbach,4,2,1.33,3.4
+D1,25/11/2023,14:30,Freiburg,Darmstadt,1,1,1.67,2.2
+D1,25/11/2023,14:30,Union Berlin,Augsburg,1,1,1.96,1.94
+D1,25/11/2023,14:30,Werder Bremen,Leverkusen,0,3,1.36,3.2
+D1,25/11/2023,14:30,Wolfsburg,RB Leipzig,2,1,1.62,2.3
+D1,25/11/2023,17:30,Ein Frankfurt,Stuttgart,1,2,1.73,2.1
+D1,26/11/2023,14:30,Heidenheim,Bochum,0,0,1.62,2.3
+D1,26/11/2023,16:30,Hoffenheim,Mainz,1,1,1.57,2.38
+D1,1/12/2023,19:30,Darmstadt,FC Koln,0,1,1.8,2
+D1,2/12/2023,14:30,Bochum,Wolfsburg,3,1,1.67,2.2
+D1,2/12/2023,14:30,M'gladbach,Hoffenheim,2,1,1.36,3.2
+D1,2/12/2023,14:30,RB Leipzig,Heidenheim,2,1,1.36,3.2
+D1,2/12/2023,17:30,Stuttgart,Werder Bremen,2,0,1.5,2.63
+D1,3/12/2023,14:30,Mainz,Freiburg,0,1,1.96,1.94
+D1,3/12/2023,16:30,Leverkusen,Dortmund,1,1,1.36,3.2
+D1,3/12/2023,18:30,Augsburg,Ein Frankfurt,2,1,1.8,2
+D1,8/12/2023,19:30,Hoffenheim,Bochum,3,1,1.5,2.63
+D1,9/12/2023,14:30,Ein Frankfurt,Bayern Munich,5,1,1.44,2.75
+D1,9/12/2023,14:30,Heidenheim,Darmstadt,3,2,1.8,2
+D1,9/12/2023,14:30,Union Berlin,M'gladbach,3,1,1.73,2.1
+D1,9/12/2023,14:30,Werder Bremen,Augsburg,2,0,1.62,2.3
+D1,9/12/2023,14:30,Wolfsburg,Freiburg,0,1,1.73,2.1
+D1,9/12/2023,17:30,Dortmund,RB Leipzig,2,3,1.44,2.75
+D1,10/12/2023,14:30,Stuttgart,Leverkusen,1,1,1.53,2.5
+D1,10/12/2023,16:30,FC Koln,Mainz,0,0,1.95,1.95
+D1,15/12/2023,19:30,M'gladbach,Werder Bremen,2,2,1.53,2.5
+D1,16/12/2023,14:30,Augsburg,Dortmund,1,1,1.44,2.75
+D1,16/12/2023,14:30,Bochum,Union Berlin,3,0,1.97,1.93
+D1,16/12/2023,14:30,Darmstadt,Wolfsburg,0,1,1.8,2
+D1,16/12/2023,14:30,Mainz,Heidenheim,0,1,1.67,2.2
+D1,16/12/2023,17:30,RB Leipzig,Hoffenheim,3,1,1.36,3.2
+D1,17/12/2023,14:30,Freiburg,FC Koln,2,0,1.91,1.99
+D1,17/12/2023,16:30,Leverkusen,Ein Frankfurt,3,0,1.5,2.63
+D1,17/12/2023,18:30,Bayern Munich,Stuttgart,3,0,1.36,3.2
+D1,19/12/2023,17:30,Werder Bremen,RB Leipzig,1,1,1.44,2.75
+D1,19/12/2023,19:30,Dortmund,Mainz,1,1,1.44,2.75
+D1,19/12/2023,19:30,Hoffenheim,Darmstadt,3,3,1.5,2.63
+D1,20/12/2023,17:30,Union Berlin,FC Koln,2,0,2.05,1.85
+D1,20/12/2023,19:30,Ein Frankfurt,M'gladbach,2,1,1.62,2.3
+D1,20/12/2023,19:30,Heidenheim,Freiburg,3,2,1.73,2.1
+D1,20/12/2023,19:30,Leverkusen,Bochum,4,0,1.36,3.2
+D1,20/12/2023,19:30,Stuttgart,Augsburg,3,0,1.44,2.75
+D1,20/12/2023,19:30,Wolfsburg,Bayern Munich,1,2,1.4,3
+D1,12/01/2024,19:30,Bayern Munich,Hoffenheim,3,0,1.22,4.33
+D1,13/01/2024,14:30,Augsburg,Leverkusen,0,1,1.53,2.5
+D1,13/01/2024,14:30,FC Koln,Heidenheim,1,1,1.73,2.1
+D1,13/01/2024,14:30,Freiburg,Union Berlin,0,0,2.02,1.88
+D1,13/01/2024,14:30,Mainz,Wolfsburg,1,1,1.98,1.92
+D1,13/01/2024,14:30,RB Leipzig,Ein Frankfurt,0,1,1.5,2.63
+D1,13/01/2024,17:30,Darmstadt,Dortmund,0,3,1.44,2.75
+D1,14/01/2024,14:30,Bochum,Werder Bremen,1,1,1.67,2.2
+D1,14/01/2024,16:30,M'gladbach,Stuttgart,3,1,1.53,2.5
+D1,20/01/2024,14:30,Bochum,Stuttgart,1,0,1.67,2.2
+D1,20/01/2024,14:30,Darmstadt,Ein Frankfurt,2,2,1.89,2.01
+D1,20/01/2024,14:30,FC Koln,Dortmund,0,4,1.53,2.5
+D1,20/01/2024,14:30,Freiburg,Hoffenheim,3,2,1.62,2.3
+D1,20/01/2024,14:30,Heidenheim,Wolfsburg,1,1,1.8,2
+D1,20/01/2024,17:30,RB Leipzig,Leverkusen,2,3,1.62,2.3
+D1,21/01/2024,14:30,Bayern Munich,Werder Bremen,0,1,1.22,4.33
+D1,21/01/2024,16:30,M'gladbach,Augsburg,1,2,1.57,2.38
+D1,24/01/2024,19:30,Bayern Munich,Union Berlin,1,0,1.4,3
+D1,26/01/2024,19:30,Ein Frankfurt,Mainz,1,0,2.05,1.75
+D1,27/01/2024,14:30,Augsburg,Bayern Munich,2,3,1.4,3
+D1,27/01/2024,14:30,Hoffenheim,Heidenheim,1,1,1.5,2.5
+D1,27/01/2024,14:30,Stuttgart,RB Leipzig,5,2,1.57,2.38
+D1,27/01/2024,14:30,Werder Bremen,Freiburg,3,1,1.8,2
+D1,27/01/2024,14:30,Wolfsburg,FC Koln,1,1,1.88,2.02
+D1,27/01/2024,17:30,Leverkusen,M'gladbach,0,0,1.4,3
+D1,28/01/2024,14:30,Union Berlin,Darmstadt,1,0,1.95,1.95
+D1,28/01/2024,16:30,Dortmund,Bochum,3,1,1.4,3
+D1,2/02/2024,19:30,Heidenheim,Dortmund,0,0,1.44,2.75
+D1,3/02/2024,14:30,Bayern Munich,M'gladbach,3,1,1.22,4.33
+D1,3/02/2024,14:30,Bochum,Augsburg,1,1,1.8,2
+D1,3/02/2024,14:30,Darmstadt,Leverkusen,0,2,1.44,2.75
+D1,3/02/2024,14:30,Freiburg,Stuttgart,1,3,1.73,2.1
+D1,3/02/2024,14:30,Mainz,Werder Bremen,0,1,2,1.9
+D1,3/02/2024,17:30,FC Koln,Ein Frankfurt,2,0,2.01,1.89
+D1,4/02/2024,14:30,Wolfsburg,Hoffenheim,2,2,1.62,2.3
+D1,4/02/2024,16:30,RB Leipzig,Union Berlin,2,0,1.62,2.3
+D1,7/02/2024,17:30,Mainz,Union Berlin,1,1,2.2,1.67
+D1,9/02/2024,19:30,Dortmund,Freiburg,3,0,1.44,2.75
+D1,10/02/2024,14:30,Augsburg,RB Leipzig,2,2,1.53,2.5
+D1,10/02/2024,14:30,Ein Frankfurt,Bochum,1,1,1.89,2.01
+D1,10/02/2024,14:30,M'gladbach,Darmstadt,0,0,1.67,2.2
+D1,10/02/2024,14:30,Union Berlin,Wolfsburg,1,0,2.1,1.73
+D1,10/02/2024,14:30,Werder Bremen,Heidenheim,1,2,1.73,2.1
+D1,10/02/2024,17:30,Leverkusen,Bayern Munich,3,0,1.5,2.63
+D1,11/02/2024,14:30,Stuttgart,Mainz,3,1,1.73,2.1
+D1,11/02/2024,16:30,Hoffenheim,FC Koln,1,1,1.62,2.3
+D1,16/02/2024,19:30,FC Koln,Werder Bremen,0,1,2.04,1.86
+D1,17/02/2024,14:30,Darmstadt,Stuttgart,1,2,1.67,2.2
+D1,17/02/2024,14:30,Heidenheim,Leverkusen,1,2,1.5,2.63
+D1,17/02/2024,14:30,Hoffenheim,Union Berlin,0,1,1.73,2.1
+D1,17/02/2024,14:30,Mainz,Augsburg,1,0,1.98,1.92
+D1,17/02/2024,14:30,Wolfsburg,Dortmund,1,1,1.57,2.38
+D1,17/02/2024,17:30,RB Leipzig,M'gladbach,2,0,1.36,3.2
+D1,18/02/2024,14:30,Freiburg,Ein Frankfurt,3,3,2.06,1.84
+D1,18/02/2024,16:30,Bochum,Bayern Munich,3,2,1.4,3
+D1,23/02/2024,19:30,Leverkusen,Mainz,2,1,1.57,2.38
+D1,24/02/2024,14:30,M'gladbach,Bochum,5,2,1.62,2.3
+D1,24/02/2024,14:30,Stuttgart,FC Koln,1,1,1.53,2.5
+D1,24/02/2024,14:30,Union Berlin,Heidenheim,2,2,2,1.8
+D1,24/02/2024,14:30,Werder Bremen,Darmstadt,1,1,1.84,2.06
+D1,24/02/2024,17:30,Bayern Munich,RB Leipzig,2,1,1.44,2.75
+D1,25/02/2024,14:30,Ein Frankfurt,Wolfsburg,2,2,1.97,1.93
+D1,25/02/2024,16:30,Dortmund,Hoffenheim,2,3,1.33,3.4
+D1,25/02/2024,18:30,Augsburg,Freiburg,2,1,1.8,2
+D1,1/03/2024,19:30,Freiburg,Bayern Munich,2,2,1.53,2.5
+D1,2/03/2024,14:30,Bochum,RB Leipzig,1,4,1.53,2.5
+D1,2/03/2024,14:30,Darmstadt,Augsburg,0,6,1.86,2.04
+D1,2/03/2024,14:30,Heidenheim,Ein Frankfurt,1,2,1.97,1.93
+D1,2/03/2024,14:30,Mainz,M'gladbach,1,1,1.8,2
+D1,2/03/2024,14:30,Union Berlin,Dortmund,0,2,1.73,2.1
+D1,2/03/2024,17:30,Wolfsburg,Stuttgart,2,3,1.73,2.1
+D1,3/03/2024,14:30,FC Koln,Leverkusen,0,2,1.67,2.2
+D1,3/03/2024,16:30,Hoffenheim,Werder Bremen,2,1,1.57,2.38
+D1,8/03/2024,19:30,Stuttgart,Union Berlin,2,0,1.73,2.1
+D1,9/03/2024,14:30,Augsburg,Heidenheim,1,0,1.62,2.3
+D1,9/03/2024,14:30,Bayern Munich,Mainz,8,1,1.4,3
+D1,9/03/2024,14:30,M'gladbach,FC Koln,3,3,1.73,2.1
+D1,9/03/2024,14:30,RB Leipzig,Darmstadt,2,0,1.33,3.4
+D1,9/03/2024,17:30,Werder Bremen,Dortmund,1,2,1.44,2.75
+D1,10/03/2024,14:30,Bochum,Freiburg,1,2,1.8,2
+D1,10/03/2024,16:30,Ein Frankfurt,Hoffenheim,3,1,1.57,2.38
+D1,10/03/2024,18:30,Leverkusen,Wolfsburg,2,0,1.53,2.5
+D1,15/03/2024,19:30,FC Koln,RB Leipzig,1,5,1.62,2.3
+D1,16/03/2024,14:30,Darmstadt,Bayern Munich,2,5,1.29,3.75
+D1,16/03/2024,14:30,Heidenheim,M'gladbach,1,1,1.67,2.2
+D1,16/03/2024,14:30,Mainz,Bochum,2,0,1.8,2
+D1,16/03/2024,14:30,Union Berlin,Werder Bremen,2,1,2,1.9
+D1,16/03/2024,14:30,Wolfsburg,Augsburg,1,3,1.8,2
+D1,16/03/2024,17:30,Hoffenheim,Stuttgart,0,3,1.44,2.75
+D1,17/03/2024,14:30,Freiburg,Leverkusen,2,3,1.73,2.1
+D1,17/03/2024,16:30,Dortmund,Ein Frankfurt,3,1,1.5,2.63
+D1,30/03/2024,14:30,Ein Frankfurt,Union Berlin,0,0,2.1,1.73
+D1,30/03/2024,14:30,Leverkusen,Hoffenheim,2,1,1.3,3.5
+D1,30/03/2024,14:30,M'gladbach,Freiburg,0,3,1.67,2.2
+D1,30/03/2024,14:30,RB Leipzig,Mainz,0,0,1.53,2.5
+D1,30/03/2024,14:30,Werder Bremen,Wolfsburg,0,2,1.8,2
+D1,30/03/2024,17:30,Bayern Munich,Dortmund,0,2,1.25,4
+D1,31/03/2024,14:30,Augsburg,FC Koln,1,1,1.73,2.1
+D1,31/03/2024,16:30,Stuttgart,Heidenheim,3,3,1.4,3
+D1,31/03/2024,18:30,Bochum,Darmstadt,2,2,1.67,2.2
+D1,5/04/2024,19:30,Ein Frankfurt,Werder Bremen,1,1,1.73,2.1
+D1,6/04/2024,14:30,FC Koln,Bochum,2,1,1.8,2
+D1,6/04/2024,14:30,Freiburg,RB Leipzig,1,4,1.53,2.5
+D1,6/04/2024,14:30,Heidenheim,Bayern Munich,3,2,1.33,3.4
+D1,6/04/2024,14:30,Mainz,Darmstadt,4,0,1.67,2.2
+D1,6/04/2024,14:30,Union Berlin,Leverkusen,0,1,1.84,2.06
+D1,6/04/2024,17:30,Dortmund,Stuttgart,0,1,1.4,3
+D1,7/04/2024,14:30,Hoffenheim,Augsburg,3,1,1.44,2.75
+D1,7/04/2024,16:30,Wolfsburg,M'gladbach,1,3,1.62,2.3
+D1,12/04/2024,19:30,Augsburg,Union Berlin,2,0,2,1.93
+D1,13/04/2024,14:30,Bayern Munich,FC Koln,2,0,1.33,3.4
+D1,13/04/2024,14:30,Bochum,Heidenheim,1,1,1.67,2.2
+D1,13/04/2024,14:30,Mainz,Hoffenheim,4,1,1.57,2.38
+D1,13/04/2024,14:30,M'gladbach,Dortmund,1,2,1.4,3
+D1,13/04/2024,14:30,RB Leipzig,Wolfsburg,3,0,1.44,2.75
+D1,13/04/2024,17:30,Stuttgart,Ein Frankfurt,3,0,1.57,2.38
+D1,14/04/2024,14:30,Darmstadt,Freiburg,0,1,1.62,2.3
+D1,14/04/2024,16:30,Leverkusen,Werder Bremen,5,0,1.44,2.75
+D1,19/04/2024,19:30,Ein Frankfurt,Augsburg,3,1,1.67,2.2
+D1,20/04/2024,14:30,FC Koln,Darmstadt,0,2,1.62,2.3
+D1,20/04/2024,14:30,Heidenheim,RB Leipzig,1,2,1.44,2.75
+D1,20/04/2024,14:30,Hoffenheim,M'gladbach,4,3,1.44,2.75
+D1,20/04/2024,14:30,Wolfsburg,Bochum,1,0,1.67,2.2
+D1,20/04/2024,17:30,Union Berlin,Bayern Munich,1,5,1.62,2.3
+D1,21/04/2024,14:30,Werder Bremen,Stuttgart,2,1,1.5,2.63
+D1,21/04/2024,16:30,Dortmund,Leverkusen,1,1,1.5,2.63
+D1,21/04/2024,18:30,Freiburg,Mainz,1,1,1.73,2.1
+D1,26/04/2024,19:30,Bochum,Hoffenheim,3,2,1.44,2.75
+D1,27/04/2024,14:30,Augsburg,Werder Bremen,0,3,1.57,2.38
+D1,27/04/2024,14:30,Bayern Munich,Ein Frankfurt,2,1,1.36,3.2
+D1,27/04/2024,14:30,Freiburg,Wolfsburg,1,2,1.84,2.06
+D1,27/04/2024,14:30,RB Leipzig,Dortmund,4,1,1.4,3
+D1,27/04/2024,17:30,Leverkusen,Stuttgart,2,2,1.57,2.38
+D1,28/04/2024,14:30,M'gladbach,Union Berlin,0,0,1.97,1.93
+D1,28/04/2024,16:30,Mainz,FC Koln,1,1,1.73,2.1
+D1,28/04/2024,18:30,Darmstadt,Heidenheim,0,1,1.67,2.2
+D1,3/05/2024,19:30,Hoffenheim,RB Leipzig,1,1,1.25,4
+D1,4/05/2024,14:30,Dortmund,Augsburg,5,1,1.33,3.4
+D1,4/05/2024,14:30,Stuttgart,Bayern Munich,3,1,1.44,2.75
+D1,4/05/2024,14:30,Werder Bremen,M'gladbach,2,2,1.57,2.38
+D1,4/05/2024,14:30,Wolfsburg,Darmstadt,3,0,1.57,2.38
+D1,4/05/2024,17:30,FC Koln,Freiburg,0,0,1.73,2.1
+D1,5/05/2024,14:30,Union Berlin,Bochum,3,4,2,1.8
+D1,5/05/2024,16:30,Ein Frankfurt,Leverkusen,1,5,1.73,2.1
+D1,5/05/2024,18:30,Heidenheim,Mainz,1,1,1.73,2.1
+D1,10/05/2024,19:30,Augsburg,Stuttgart,0,1,1.36,3.2
+D1,11/05/2024,14:30,FC Koln,Union Berlin,3,2,2.05,1.85
+D1,11/05/2024,14:30,Freiburg,Heidenheim,1,1,1.62,2.3
+D1,11/05/2024,14:30,M'gladbach,Ein Frankfurt,1,1,1.57,2.38
+D1,11/05/2024,14:30,RB Leipzig,Werder Bremen,1,1,1.29,3.75
+D1,11/05/2024,17:30,Mainz,Dortmund,3,0,1.5,2.63
+D1,12/05/2024,14:30,Darmstadt,Hoffenheim,0,6,1.36,3.2
+D1,12/05/2024,16:30,Bayern Munich,Wolfsburg,2,0,1.36,3.2
+D1,12/05/2024,18:30,Bochum,Leverkusen,0,5,1.44,2.75
+D1,18/05/2024,14:30,Dortmund,Darmstadt,4,0,1.2,4.5
+D1,18/05/2024,14:30,Ein Frankfurt,RB Leipzig,2,2,1.5,2.63
+D1,18/05/2024,14:30,Heidenheim,FC Koln,4,1,1.5,2.63
+D1,18/05/2024,14:30,Hoffenheim,Bayern Munich,4,2,1.25,4
+D1,18/05/2024,14:30,Leverkusen,Augsburg,2,1,1.25,4
+D1,18/05/2024,14:30,Stuttgart,M'gladbach,4,0,1.22,4.33
+D1,18/05/2024,14:30,Union Berlin,Freiburg,2,1,1.95,1.95
+D1,18/05/2024,14:30,Werder Bremen,Bochum,4,1,1.57,2.38
+D1,18/05/2024,14:30,Wolfsburg,Mainz,1,3,1.73,2.1
+D1,23/08/2024,19:30,M'gladbach,Leverkusen,2,3,1.44,2.75
+D1,24/08/2024,14:30,Augsburg,Werder Bremen,2,2,1.73,2.1
+D1,24/08/2024,14:30,Freiburg,Stuttgart,3,1,1.67,2.2
+D1,24/08/2024,14:30,Hoffenheim,Holstein Kiel,3,2,1.53,2.5
+D1,24/08/2024,14:30,Mainz,Union Berlin,1,1,2.2,1.67
+D1,24/08/2024,14:30,RB Leipzig,Bochum,1,0,1.36,3.2
+D1,24/08/2024,17:30,Dortmund,Ein Frankfurt,2,0,1.5,2.63
+D1,25/08/2024,14:30,Wolfsburg,Bayern Munich,2,3,1.44,2.75
+D1,25/08/2024,16:30,St Pauli,Heidenheim,0,2,1.87,2.03
+D1,30/08/2024,19:30,Union Berlin,St Pauli,1,0,2.03,1.87
+D1,31/08/2024,14:30,Bochum,M'gladbach,0,2,1.57,2.38
+D1,31/08/2024,14:30,Ein Frankfurt,Hoffenheim,3,1,1.44,2.75
+D1,31/08/2024,14:30,Holstein Kiel,Wolfsburg,0,2,1.73,2.1
+D1,31/08/2024,14:30,Stuttgart,Mainz,3,3,1.62,2.3
+D1,31/08/2024,14:30,Werder Bremen,Dortmund,0,0,1.44,2.75
+D1,31/08/2024,17:30,Leverkusen,RB Leipzig,2,3,1.5,2.63
+D1,1/09/2024,14:30,Heidenheim,Augsburg,4,0,1.73,2.1
+D1,1/09/2024,16:30,Bayern Munich,Freiburg,2,0,1.25,4
+D1,13/09/2024,19:30,Dortmund,Heidenheim,4,2,1.5,2.63
+D1,14/09/2024,14:30,Freiburg,Bochum,2,1,1.67,2.2
+D1,14/09/2024,14:30,Hoffenheim,Leverkusen,1,4,1.33,3.4
+D1,14/09/2024,14:30,M'gladbach,Stuttgart,1,3,1.44,2.75
+D1,14/09/2024,14:30,RB Leipzig,Union Berlin,0,0,1.67,2.2
+D1,14/09/2024,14:30,Wolfsburg,Ein Frankfurt,1,2,1.73,2.1
+D1,14/09/2024,17:30,Holstein Kiel,Bayern Munich,1,6,1.29,3.75
+D1,15/09/2024,14:30,Augsburg,St Pauli,3,1,1.73,2.1
+D1,15/09/2024,16:30,Mainz,Werder Bremen,1,2,1.73,2.1
+D1,20/09/2024,19:30,Augsburg,Mainz,2,3,1.67,2.2
+D1,21/09/2024,14:30,Bochum,Holstein Kiel,2,2,1.62,2.3
+D1,21/09/2024,14:30,Heidenheim,Freiburg,0,3,1.73,2.1
+D1,21/09/2024,14:30,Union Berlin,Hoffenheim,2,1,1.73,2.1
+D1,21/09/2024,14:30,Werder Bremen,Bayern Munich,0,5,1.36,3.2
+D1,21/09/2024,17:30,Ein Frankfurt,M'gladbach,2,0,1.5,2.63
+D1,22/09/2024,14:30,Leverkusen,Wolfsburg,4,3,1.44,2.75
+D1,22/09/2024,16:30,Stuttgart,Dortmund,5,1,1.44,2.75
+D1,22/09/2024,18:30,St Pauli,RB Leipzig,0,0,1.67,2.2
+D1,27/09/2024,19:30,Dortmund,Bochum,4,2,1.29,3.75
+D1,28/09/2024,14:30,Freiburg,St Pauli,0,3,1.84,2.06
+D1,28/09/2024,14:30,Mainz,Heidenheim,0,2,1.73,2.1
+D1,28/09/2024,14:30,M'gladbach,Union Berlin,1,0,1.8,2
+D1,28/09/2024,14:30,RB Leipzig,Augsburg,4,0,1.44,2.75
+D1,28/09/2024,14:30,Wolfsburg,Stuttgart,2,2,1.5,2.63
+D1,28/09/2024,17:30,Bayern Munich,Leverkusen,1,1,1.3,3.5
+D1,29/09/2024,14:30,Holstein Kiel,Ein Frankfurt,2,4,1.5,2.63
+D1,29/09/2024,16:30,Hoffenheim,Werder Bremen,3,4,1.44,2.75
+D1,4/10/2024,19:30,Augsburg,M'gladbach,2,1,1.5,2.63
+D1,5/10/2024,14:30,Bochum,Wolfsburg,1,3,1.62,2.3
+D1,5/10/2024,14:30,Leverkusen,Holstein Kiel,2,2,1.22,4.33
+D1,5/10/2024,14:30,Union Berlin,Dortmund,2,1,1.73,2.1
+D1,5/10/2024,14:30,Werder Bremen,Freiburg,0,1,1.67,2.2
+D1,5/10/2024,17:30,St Pauli,Mainz,0,3,1.88,2.02
+D1,6/10/2024,14:30,Heidenheim,RB Leipzig,0,1,1.57,2.38
+D1,6/10/2024,16:30,Ein Frankfurt,Bayern Munich,3,3,1.36,3.2
+D1,6/10/2024,18:30,Stuttgart,Hoffenheim,1,1,1.25,4
+D1,18/10/2024,19:30,Dortmund,St Pauli,2,1,1.5,2.63
+D1,19/10/2024,14:30,Freiburg,Augsburg,3,1,1.73,2.1
+D1,19/10/2024,14:30,Hoffenheim,Bochum,3,1,1.4,3
+D1,19/10/2024,14:30,Leverkusen,Ein Frankfurt,2,1,1.4,3
+D1,19/10/2024,14:30,Mainz,RB Leipzig,0,2,1.67,2.2
+D1,19/10/2024,14:30,M'gladbach,Heidenheim,3,2,1.62,2.3
+D1,19/10/2024,17:30,Bayern Munich,Stuttgart,4,0,1.3,3.5
+D1,20/10/2024,14:30,Holstein Kiel,Union Berlin,0,2,2,1.9
+D1,20/10/2024,16:30,Wolfsburg,Werder Bremen,2,4,1.73,2.1
+D1,25/10/2024,19:30,Mainz,M'gladbach,1,1,1.57,2.38
+D1,26/10/2024,14:30,Augsburg,Dortmund,2,1,1.5,2.63
+D1,26/10/2024,14:30,RB Leipzig,Freiburg,3,1,1.67,2.2
+D1,26/10/2024,14:30,St Pauli,Wolfsburg,0,0,1.78,2
+D1,26/10/2024,14:30,Stuttgart,Holstein Kiel,2,1,1.3,3.5
+D1,26/10/2024,17:30,Werder Bremen,Leverkusen,2,2,1.4,3
+D1,27/10/2024,14:30,Bochum,Bayern Munich,0,5,1.22,4.33
+D1,27/10/2024,16:30,Union Berlin,Ein Frankfurt,1,1,1.95,1.95
+D1,27/10/2024,18:30,Heidenheim,Hoffenheim,0,0,1.53,2.5
+D1,1/11/2024,19:30,Leverkusen,Stuttgart,0,0,1.36,3.2
+D1,2/11/2024,14:30,Bayern Munich,Union Berlin,3,0,1.44,2.75
+D1,2/11/2024,14:30,Ein Frankfurt,Bochum,7,2,1.36,3.2
+D1,2/11/2024,14:30,Hoffenheim,St Pauli,0,2,1.62,2.3
+D1,2/11/2024,14:30,Holstein Kiel,Heidenheim,1,0,1.73,2.1
+D1,2/11/2024,14:30,Wolfsburg,Augsburg,1,1,1.62,2.3
+D1,2/11/2024,17:30,Dortmund,RB Leipzig,2,1,1.5,2.63
+D1,3/11/2024,14:30,Freiburg,Mainz,0,0,1.73,2.1
+D1,3/11/2024,16:30,M'gladbach,Werder Bremen,4,1,1.5,2.63
+D1,8/11/2024,19:30,Union Berlin,Freiburg,0,0,2.38,1.57
+D1,9/11/2024,14:30,Bochum,Leverkusen,1,1,1.3,3.5
+D1,9/11/2024,14:30,Mainz,Dortmund,3,1,1.62,2.3
+D1,9/11/2024,14:30,St Pauli,Bayern Munich,0,1,1.4,3
+D1,9/11/2024,14:30,Werder Bremen,Holstein Kiel,2,1,1.53,2.5
+D1,9/11/2024,17:30,RB Leipzig,M'gladbach,0,0,1.4,3
+D1,10/11/2024,14:30,Augsburg,Hoffenheim,0,0,1.57,2.38
+D1,10/11/2024,16:30,Stuttgart,Ein Frankfurt,2,3,1.44,2.75
+D1,10/11/2024,18:30,Heidenheim,Wolfsburg,1,3,1.95,1.95
+D1,22/11/2024,19:30,Bayern Munich,Augsburg,3,0,1.29,3.75
+D1,23/11/2024,14:30,Dortmund,Freiburg,4,0,1.57,2.38
+D1,23/11/2024,14:30,Hoffenheim,RB Leipzig,4,3,1.57,2.38
+D1,23/11/2024,14:30,Leverkusen,Heidenheim,5,2,1.4,3
+D1,23/11/2024,14:30,Stuttgart,Bochum,2,0,1.33,3.4
+D1,23/11/2024,14:30,Wolfsburg,Union Berlin,1,0,2.1,1.73
+D1,23/11/2024,17:30,Ein Frankfurt,Werder Bremen,1,0,1.5,2.63
+D1,24/11/2024,14:30,Holstein Kiel,Mainz,0,3,1.8,2
+D1,24/11/2024,16:30,M'gladbach,St Pauli,2,0,1.8,2
+D1,29/11/2024,19:30,St Pauli,Holstein Kiel,3,1,1.95,1.95
+D1,30/11/2024,14:30,Augsburg,Bochum,1,0,1.73,2.1
+D1,30/11/2024,14:30,Freiburg,M'gladbach,3,1,1.67,2.2
+D1,30/11/2024,14:30,RB Leipzig,Wolfsburg,1,5,1.62,2.3
+D1,30/11/2024,14:30,Union Berlin,Leverkusen,1,2,1.89,2.01
+D1,30/11/2024,14:30,Werder Bremen,Stuttgart,2,2,1.53,2.5
+D1,30/11/2024,17:30,Dortmund,Bayern Munich,1,1,1.4,3
+D1,1/12/2024,14:30,Mainz,Hoffenheim,2,0,1.67,2.2
+D1,1/12/2024,16:30,Heidenheim,Ein Frankfurt,0,4,1.73,2.1
+D1,6/12/2024,19:30,Stuttgart,Union Berlin,3,2,2.1,1.73
+D1,7/12/2024,14:30,Bayern Munich,Heidenheim,4,2,1.25,3.75
+D1,7/12/2024,14:30,Bochum,Werder Bremen,0,1,1.62,2.3
+D1,7/12/2024,14:30,Ein Frankfurt,Augsburg,2,2,1.62,2.3
+D1,7/12/2024,14:30,Holstein Kiel,RB Leipzig,0,2,1.49,2.45
+D1,7/12/2024,14:30,Leverkusen,St Pauli,2,1,1.5,2.63
+D1,7/12/2024,17:30,M'gladbach,Dortmund,1,1,1.44,2.75
+D1,8/12/2024,14:30,Wolfsburg,Mainz,4,3,1.84,2.06
+D1,8/12/2024,16:30,Hoffenheim,Freiburg,1,1,1.73,2.1
+D1,13/12/2024,19:30,Freiburg,Wolfsburg,3,2,1.93,1.97
+D1,14/12/2024,14:30,Augsburg,Leverkusen,0,2,1.67,2.2
+D1,14/12/2024,14:30,Mainz,Bayern Munich,2,1,1.53,2.5
+D1,14/12/2024,14:30,M'gladbach,Holstein Kiel,4,1,1.5,2.63
+D1,14/12/2024,14:30,Union Berlin,Bochum,0,2,2.04,1.86
+D1,14/12/2024,17:30,St Pauli,Werder Bremen,0,2,1.95,1.95
+D1,15/12/2024,14:30,Heidenheim,Stuttgart,1,3,1.73,2.1
+D1,15/12/2024,16:30,Dortmund,Hoffenheim,1,1,1.4,3
+D1,15/12/2024,18:30,RB Leipzig,Ein Frankfurt,2,1,1.53,2.5
+D1,20/12/2024,19:30,Bayern Munich,RB Leipzig,5,1,1.29,3.75
+D1,21/12/2024,14:30,Ein Frankfurt,Mainz,1,3,1.67,2.2
+D1,21/12/2024,14:30,Hoffenheim,M'gladbach,1,2,1.57,2.38
+D1,21/12/2024,14:30,Holstein Kiel,Augsburg,5,1,1.97,1.93
+D1,21/12/2024,14:30,Stuttgart,St Pauli,0,1,1.67,2.2
+D1,21/12/2024,14:30,Werder Bremen,Union Berlin,4,1,2,1.8
+D1,21/12/2024,17:30,Leverkusen,Freiburg,5,1,1.62,2.3
+D1,22/12/2024,14:30,Bochum,Heidenheim,2,0,1.73,2.1
+D1,22/12/2024,16:30,Wolfsburg,Dortmund,1,3,1.62,2.3
+D1,10/01/2025,19:30,Dortmund,Leverkusen,2,3,1.57,2.38
+D1,11/01/2025,14:30,Freiburg,Holstein Kiel,3,2,1.57,2.38
+D1,11/01/2025,14:30,Heidenheim,Union Berlin,2,0,2.05,1.85
+D1,11/01/2025,14:30,Hoffenheim,Wolfsburg,0,1,1.57,2.38
+D1,11/01/2025,14:30,Mainz,Bochum,2,0,1.73,2.1
+D1,11/01/2025,14:30,St Pauli,Ein Frankfurt,0,1,1.85,2.05
+D1,11/01/2025,17:30,M'gladbach,Bayern Munich,0,1,1.36,3.2
+D1,12/01/2025,14:30,RB Leipzig,Werder Bremen,4,2,1.53,2.5
+D1,12/01/2025,16:30,Augsburg,Stuttgart,0,1,1.73,2.1
+D1,14/01/2025,17:30,Holstein Kiel,Dortmund,4,2,1.44,2.75
+D1,14/01/2025,19:30,Ein Frankfurt,Freiburg,4,1,1.57,2.38
+D1,14/01/2025,19:30,Leverkusen,Mainz,1,0,1.62,2.3
+D1,14/01/2025,19:30,Wolfsburg,M'gladbach,5,1,1.62,2.3
+D1,15/01/2025,17:30,Bochum,St Pauli,1,0,2,1.8
+D1,15/01/2025,19:30,Bayern Munich,Hoffenheim,5,0,1.25,4
+D1,15/01/2025,19:30,Stuttgart,RB Leipzig,2,1,1.44,2.75
+D1,15/01/2025,19:30,Union Berlin,Augsburg,0,2,2.1,1.73
+D1,15/01/2025,19:30,Werder Bremen,Heidenheim,3,3,1.57,2.38
+D1,17/01/2025,19:30,Ein Frankfurt,Dortmund,2,0,1.57,2.38
+D1,18/01/2025,14:30,Bayern Munich,Wolfsburg,3,2,1.3,3.5
+D1,18/01/2025,14:30,Bochum,RB Leipzig,3,3,1.73,2.1
+D1,18/01/2025,14:30,Heidenheim,St Pauli,0,2,1.97,1.93
+D1,18/01/2025,14:30,Holstein Kiel,Hoffenheim,1,3,1.67,2.2
+D1,18/01/2025,14:30,Stuttgart,Freiburg,4,0,1.53,2.5
+D1,18/01/2025,17:30,Leverkusen,M'gladbach,3,1,1.44,2.75
+D1,19/01/2025,14:30,Union Berlin,Mainz,2,1,2.1,1.73
+D1,19/01/2025,16:30,Werder Bremen,Augsburg,0,2,1.87,2.03
+D1,24/01/2025,19:30,Wolfsburg,Holstein Kiel,2,2,1.53,2.5
+D1,25/01/2025,14:30,Augsburg,Heidenheim,2,1,1.92,1.98
+D1,25/01/2025,14:30,Dortmund,Werder Bremen,2,2,1.5,2.63
+D1,25/01/2025,14:30,Freiburg,Bayern Munich,1,2,1.44,2.75
+D1,25/01/2025,14:30,Mainz,Stuttgart,2,0,1.73,2.1
+D1,25/01/2025,14:30,RB Leipzig,Leverkusen,2,2,1.49,2.45
+D1,25/01/2025,17:30,M'gladbach,Bochum,3,0,1.62,2.3
+D1,26/01/2025,14:30,Hoffenheim,Ein Frankfurt,2,2,1.67,2.2
+D1,26/01/2025,16:30,St Pauli,Union Berlin,3,0,2.2,1.67
+D1,31/01/2025,19:30,Werder Bremen,Mainz,1,0,1.89,2.01
+D1,1/02/2025,14:30,Bayern Munich,Holstein Kiel,4,3,1.14,5.5
+D1,1/02/2025,14:30,Bochum,Freiburg,0,1,1.8,2
+D1,1/02/2025,14:30,Heidenheim,Dortmund,1,2,1.57,2.38
+D1,1/02/2025,14:30,St Pauli,Augsburg,1,1,2.2,1.67
+D1,1/02/2025,14:30,Stuttgart,M'gladbach,1,2,1.44,2.75
+D1,1/02/2025,17:30,Union Berlin,RB Leipzig,0,0,1.73,2.1
+D1,2/02/2025,14:30,Ein Frankfurt,Wolfsburg,1,1,1.53,2.5
+D1,2/02/2025,16:30,Leverkusen,Hoffenheim,3,1,1.36,3.2
+D1,7/02/2025,19:30,Bayern Munich,Werder Bremen,3,0,1.2,4.5
+D1,8/02/2025,14:30,Dortmund,Stuttgart,1,2,1.5,2.63
+D1,8/02/2025,14:30,Freiburg,Heidenheim,1,0,1.73,2.1
+D1,8/02/2025,14:30,Hoffenheim,Union Berlin,0,4,1.84,2.06
+D1,8/02/2025,14:30,Mainz,Augsburg,0,0,2.05,1.85
+D1,8/02/2025,14:30,Wolfsburg,Leverkusen,0,0,1.67,2.2
+D1,8/02/2025,17:30,M'gladbach,Ein Frankfurt,1,1,1.53,2.5
+D1,9/02/2025,14:30,Holstein Kiel,Bochum,2,2,1.67,2.2
+D1,9/02/2025,16:30,RB Leipzig,St Pauli,2,0,1.73,2.1
+D1,14/02/2025,19:30,Augsburg,RB Leipzig,0,0,1.9,2
+D1,15/02/2025,14:30,Bochum,Dortmund,2,0,1.62,2.3
+D1,15/02/2025,14:30,St Pauli,Freiburg,0,1,2.2,1.67
+D1,15/02/2025,14:30,Stuttgart,Wolfsburg,1,2,1.53,2.5
+D1,15/02/2025,14:30,Union Berlin,M'gladbach,1,2,1.73,2.1
+D1,15/02/2025,17:30,Leverkusen,Bayern Munich,0,0,1.67,2.2
+D1,16/02/2025,14:30,Werder Bremen,Hoffenheim,1,3,1.53,2.5
+D1,16/02/2025,16:30,Ein Frankfurt,Holstein Kiel,3,1,1.4,3
+D1,16/02/2025,18:30,Heidenheim,Mainz,0,2,1.92,1.98
+D1,21/02/2025,19:30,Freiburg,Werder Bremen,5,0,1.98,1.92
+D1,22/02/2025,14:30,Holstein Kiel,Leverkusen,0,2,1.4,3
+D1,22/02/2025,14:30,Mainz,St Pauli,2,0,2.1,1.73
+D1,22/02/2025,14:30,M'gladbach,Augsburg,0,3,1.73,2.1
+D1,22/02/2025,14:30,Wolfsburg,Bochum,1,1,1.62,2.3
+D1,22/02/2025,17:30,Dortmund,Union Berlin,6,0,1.62,2.3
+D1,23/02/2025,14:30,RB Leipzig,Heidenheim,2,2,1.5,2.63
+D1,23/02/2025,16:30,Bayern Munich,Ein Frankfurt,4,0,1.33,3.4
+D1,23/02/2025,18:30,Hoffenheim,Stuttgart,1,1,1.5,2.63
+D1,28/02/2025,19:30,Stuttgart,Bayern Munich,1,3,1.53,2.5
+D1,1/03/2025,14:30,Bochum,Hoffenheim,0,1,1.57,2.25
+D1,1/03/2025,14:30,Heidenheim,M'gladbach,0,3,1.62,2.15
+D1,1/03/2025,14:30,RB Leipzig,Mainz,1,2,1.76,1.96
+D1,1/03/2025,14:30,St Pauli,Dortmund,0,2,1.8,2
+D1,1/03/2025,14:30,Werder Bremen,Wolfsburg,1,2,1.67,2.2
+D1,1/03/2025,17:30,Ein Frankfurt,Leverkusen,1,4,1.67,2.2
+D1,2/03/2025,14:30,Union Berlin,Holstein Kiel,0,1,1.67,2.2
+D1,2/03/2025,16:30,Augsburg,Freiburg,0,0,2.2,1.67
+D1,7/03/2025,19:30,M'gladbach,Mainz,1,3,1.76,1.96
+D1,8/03/2025,14:30,Bayern Munich,Bochum,2,3,1.29,3.75
+D1,8/03/2025,14:30,Dortmund,Augsburg,0,1,1.73,2.1
+D1,8/03/2025,14:30,Holstein Kiel,Stuttgart,2,2,1.5,2.63
+D1,8/03/2025,14:30,Leverkusen,Werder Bremen,0,2,1.53,2.5
+D1,8/03/2025,14:30,Wolfsburg,St Pauli,1,1,1.85,1.93
+D1,8/03/2025,17:30,Freiburg,RB Leipzig,0,0,1.8,2
+D1,9/03/2025,14:30,Ein Frankfurt,Union Berlin,1,2,1.67,2.2
+D1,9/03/2025,16:30,Hoffenheim,Heidenheim,1,1,1.62,2.15
+D1,14/03/2025,19:30,St Pauli,Hoffenheim,1,0,2.1,1.73
+D1,15/03/2025,14:30,Augsburg,Wolfsburg,1,0,2,1.8
+D1,15/03/2025,14:30,Mainz,Freiburg,2,2,2.1,1.73
+D1,15/03/2025,14:30,Union Berlin,Bayern Munich,1,1,1.57,2.38
+D1,15/03/2025,14:30,Werder Bremen,M'gladbach,2,4,1.57,2.38
+D1,15/03/2025,17:30,RB Leipzig,Dortmund,2,0,1.62,2.3
+D1,16/03/2025,14:30,Bochum,Ein Frankfurt,1,3,1.67,2.2
+D1,16/03/2025,16:30,Heidenheim,Holstein Kiel,3,1,1.8,2
+D1,16/03/2025,18:30,Stuttgart,Leverkusen,3,4,1.67,2.2
+D1,28/03/2025,19:30,Leverkusen,Bochum,3,1,1.41,2.7
+D1,29/03/2025,14:30,Bayern Munich,St Pauli,3,2,1.44,2.75
+D1,29/03/2025,14:30,Hoffenheim,Augsburg,1,1,2.1,1.73
+D1,29/03/2025,14:30,Holstein Kiel,Werder Bremen,0,3,1.62,2.3
+D1,29/03/2025,14:30,M'gladbach,RB Leipzig,1,0,1.53,2.5
+D1,29/03/2025,14:30,Wolfsburg,Heidenheim,0,1,1.73,2.1
+D1,29/03/2025,17:30,Ein Frankfurt,Stuttgart,1,0,1.5,2.63
+D1,30/03/2025,14:30,Freiburg,Union Berlin,1,2,2.1,1.73
+D1,30/03/2025,16:30,Dortmund,Mainz,3,1,1.67,2.2
+D1,4/04/2025,19:30,Augsburg,Bayern Munich,1,3,1.62,2.3
+D1,5/04/2025,14:30,Bochum,Stuttgart,0,4,1.57,2.38
+D1,5/04/2025,14:30,Freiburg,Dortmund,1,4,1.8,2
+D1,5/04/2025,14:30,Heidenheim,Leverkusen,0,1,1.62,2.3
+D1,5/04/2025,14:30,Mainz,Holstein Kiel,1,1,1.67,2.2
+D1,5/04/2025,14:30,RB Leipzig,Hoffenheim,3,1,1.53,2.5
+D1,5/04/2025,17:30,Werder Bremen,Ein Frankfurt,2,0,1.57,2.38
+D1,6/04/2025,14:30,St Pauli,M'gladbach,1,1,1.88,2.02
+D1,6/04/2025,16:30,Union Berlin,Wolfsburg,1,0,2.05,1.85
+D1,11/04/2025,19:30,Wolfsburg,RB Leipzig,2,3,1.57,2.38
+D1,12/04/2025,14:30,Bochum,Augsburg,1,2,2.02,1.88
+D1,12/04/2025,14:30,Hoffenheim,Mainz,2,0,1.73,2.1
+D1,12/04/2025,14:30,Holstein Kiel,St Pauli,1,2,2,1.9
+D1,12/04/2025,14:30,Leverkusen,Union Berlin,0,0,1.62,2.3
+D1,12/04/2025,14:30,M'gladbach,Freiburg,1,2,1.67,2.2
+D1,12/04/2025,17:30,Bayern Munich,Dortmund,2,2,1.4,3
+D1,13/04/2025,14:30,Stuttgart,Werder Bremen,1,2,1.44,2.75
+D1,13/04/2025,16:30,Ein Frankfurt,Heidenheim,3,0,1.67,2.2
+D1,19/04/2025,14:30,Freiburg,Hoffenheim,3,2,1.73,2.1
+D1,19/04/2025,14:30,Heidenheim,Bayern Munich,0,4,1.4,3
+D1,19/04/2025,14:30,Mainz,Wolfsburg,2,2,1.8,2
+D1,19/04/2025,14:30,RB Leipzig,Holstein Kiel,1,1,1.4,3
+D1,19/04/2025,14:30,Werder Bremen,Bochum,1,0,1.57,2.38
+D1,19/04/2025,17:30,Union Berlin,Stuttgart,4,4,1.8,2
+D1,20/04/2025,14:30,Augsburg,Ein Frankfurt,0,0,1.92,1.98
+D1,20/04/2025,16:30,Dortmund,M'gladbach,3,2,1.36,3.2
+D1,20/04/2025,18:30,St Pauli,Leverkusen,1,1,2.03,1.87
+D1,25/04/2025,19:30,Stuttgart,Heidenheim,0,1,1.44,2.75
+D1,26/04/2025,14:30,Bayern Munich,Mainz,3,0,1.33,3.4
+D1,26/04/2025,14:30,Hoffenheim,Dortmund,2,3,1.44,2.75
+D1,26/04/2025,14:30,Holstein Kiel,M'gladbach,4,3,1.5,2.63
+D1,26/04/2025,14:30,Leverkusen,Augsburg,2,0,1.73,2.1
+D1,26/04/2025,14:30,Wolfsburg,Freiburg,0,1,1.73,2.1
+D1,26/04/2025,17:30,Ein Frankfurt,RB Leipzig,4,0,1.5,2.63
+D1,27/04/2025,14:30,Bochum,Union Berlin,1,1,1.85,2.05
+D1,27/04/2025,16:30,Werder Bremen,St Pauli,0,0,1.88,2.02
+D1,2/05/2025,19:30,Heidenheim,Bochum,0,0,1.62,2.15
+D1,3/05/2025,14:30,M'gladbach,Hoffenheim,4,4,1.41,2.7
+D1,3/05/2025,14:30,RB Leipzig,Bayern Munich,3,3,1.33,3.2
+D1,3/05/2025,14:30,St Pauli,Stuttgart,0,1,1.85,2.05
+D1,3/05/2025,14:30,Union Berlin,Werder Bremen,2,2,1.89,2.01
+D1,3/05/2025,17:30,Dortmund,Wolfsburg,4,0,1.33,3.4
+D1,4/05/2025,14:30,Augsburg,Holstein Kiel,1,3,1.85,2.05
+D1,4/05/2025,16:30,Freiburg,Leverkusen,2,2,1.73,2.1
+D1,4/05/2025,18:30,Mainz,Ein Frankfurt,1,1,1.62,2.3
+D1,9/05/2025,19:30,Wolfsburg,Hoffenheim,2,2,1.5,2.63
+D1,10/05/2025,14:30,Bochum,Mainz,1,4,1.67,2.2
+D1,10/05/2025,14:30,Holstein Kiel,Freiburg,1,2,1.53,2.5
+D1,10/05/2025,14:30,Union Berlin,Heidenheim,0,3,1.95,1.95
+D1,10/05/2025,14:30,Werder Bremen,RB Leipzig,0,0,1.53,2.5
+D1,10/05/2025,17:30,Bayern Munich,M'gladbach,2,0,1.17,5
+D1,11/05/2025,14:30,Leverkusen,Dortmund,2,4,1.5,2.63
+D1,11/05/2025,16:30,Ein Frankfurt,St Pauli,2,2,1.73,2.1
+D1,11/05/2025,18:30,Stuttgart,Augsburg,4,0,1.53,2.5
+D1,17/05/2025,14:30,Augsburg,Union Berlin,1,2,1.62,2.3
+D1,17/05/2025,14:30,Dortmund,Holstein Kiel,3,0,1.14,5.5
+D1,17/05/2025,14:30,Freiburg,Ein Frankfurt,1,3,1.53,2.5
+D1,17/05/2025,14:30,Heidenheim,Werder Bremen,1,4,1.99,1.91
+D1,17/05/2025,14:30,Hoffenheim,Bayern Munich,0,4,1.29,3.75
+D1,17/05/2025,14:30,Mainz,Leverkusen,2,2,1.44,2.75
+D1,17/05/2025,14:30,M'gladbach,Wolfsburg,0,1,1.3,3.5
+D1,17/05/2025,14:30,RB Leipzig,Stuttgart,2,3,1.33,3.4
+D1,17/05/2025,14:30,St Pauli,Bochum,0,2,1.57,2.38
+D1,22/08/2025,19:30,Bayern Munich,RB Leipzig,6,0,1.25,4
+D1,23/08/2025,14:30,Ein Frankfurt,Werder Bremen,4,1,1.57,2.38
+D1,23/08/2025,14:30,Freiburg,Augsburg,1,3,1.93,1.93
+D1,23/08/2025,14:30,Heidenheim,Wolfsburg,1,3,1.67,2.2
+D1,23/08/2025,14:30,Leverkusen,Hoffenheim,1,2,1.5,2.63
+D1,23/08/2025,14:30,Union Berlin,Stuttgart,2,1,1.67,2.2
+D1,23/08/2025,17:30,St Pauli,Dortmund,3,3,1.83,2.03
+D1,24/08/2025,14:30,Mainz,FC Koln,0,1,1.83,2.03
+D1,24/08/2025,16:30,M'gladbach,Hamburg,0,0,1.53,2.5
+D1,29/08/2025,19:30,Hamburg,St Pauli,0,2,2,1.8
+D1,30/08/2025,14:30,Hoffenheim,Ein Frankfurt,1,3,1.5,2.63
+D1,30/08/2025,14:30,RB Leipzig,Heidenheim,2,0,1.5,2.63
+D1,30/08/2025,14:30,Stuttgart,M'gladbach,1,0,1.4,3
+D1,30/08/2025,14:30,Werder Bremen,Leverkusen,3,3,1.57,2.38
+D1,30/08/2025,17:30,Augsburg,Bayern Munich,2,3,1.33,3.4
+D1,31/08/2025,14:30,Wolfsburg,Mainz,1,1,1.73,2.1
+D1,31/08/2025,16:30,Dortmund,Union Berlin,3,0,1.5,2.63
+D1,31/08/2025,18:30,FC Koln,Freiburg,4,1,2.03,1.83
+D1,12/09/2025,19:30,Leverkusen,Ein Frankfurt,3,1,1.44,2.75
+D1,13/09/2025,14:30,Freiburg,Stuttgart,3,1,1.57,2.38
+D1,13/09/2025,14:30,Heidenheim,Dortmund,0,2,1.5,2.63
+D1,13/09/2025,14:30,Mainz,RB Leipzig,0,1,1.67,2.2
+D1,13/09/2025,14:30,Union Berlin,Hoffenheim,2,4,1.88,1.98
+D1,13/09/2025,14:30,Wolfsburg,FC Koln,3,3,1.8,2
+D1,13/09/2025,17:30,Bayern Munich,Hamburg,5,0,1.22,4.33
+D1,14/09/2025,14:30,St Pauli,Augsburg,2,1,2.1,1.73
+D1,14/09/2025,16:30,M'gladbach,Werder Bremen,0,4,1.5,2.63
+D1,19/09/2025,19:30,Stuttgart,St Pauli,2,0,1.73,2.1
+D1,20/09/2025,14:30,Augsburg,Mainz,1,4,1.93,1.93
+D1,20/09/2025,14:30,Hamburg,Heidenheim,2,1,1.8,2
+D1,20/09/2025,14:30,Hoffenheim,Bayern Munich,1,4,1.29,3.75
+D1,20/09/2025,14:30,Werder Bremen,Freiburg,0,3,1.62,2.3
+D1,20/09/2025,17:30,RB Leipzig,FC Koln,3,1,1.53,2.5
+D1,21/09/2025,14:30,Ein Frankfurt,Union Berlin,3,4,1.57,2.38
+D1,21/09/2025,16:30,Leverkusen,M'gladbach,1,1,1.44,2.75
+D1,21/09/2025,18:30,Dortmund,Wolfsburg,1,0,1.44,2.75
+D1,26/09/2025,19:30,Bayern Munich,Werder Bremen,4,0,1.2,4.5
+D1,27/09/2025,14:30,Heidenheim,Augsburg,2,1,1.73,2.1
+D1,27/09/2025,14:30,Mainz,Dortmund,0,2,1.62,2.3
+D1,27/09/2025,14:30,St Pauli,Leverkusen,1,2,1.88,1.98
+D1,27/09/2025,14:30,Wolfsburg,RB Leipzig,0,1,1.53,2.5
+D1,27/09/2025,17:30,M'gladbach,Ein Frankfurt,4,6,1.53,2.5
+D1,28/09/2025,14:30,Freiburg,Hoffenheim,1,1,1.62,2.3
+D1,28/09/2025,16:30,FC Koln,Stuttgart,1,2,1.53,2.5
+D1,28/09/2025,18:30,Union Berlin,Hamburg,0,0,1.8,2
+D1,3/10/2025,19:30,Hoffenheim,FC Koln,0,1,1.57,2.38
+D1,4/10/2025,14:30,Augsburg,Wolfsburg,3,1,1.73,2.1
+D1,4/10/2025,14:30,Dortmund,RB Leipzig,1,1,1.36,3.2
+D1,4/10/2025,14:30,Leverkusen,Union Berlin,2,0,1.8,2
+D1,4/10/2025,14:30,Werder Bremen,St Pauli,1,0,1.73,2.1
+D1,4/10/2025,17:30,Ein Frankfurt,Bayern Munich,0,3,1.29,3.75
+D1,5/10/2025,14:30,Stuttgart,Heidenheim,1,0,1.5,2.63
+D1,5/10/2025,16:30,Hamburg,Mainz,4,0,1.73,2.1
+D1,5/10/2025,18:30,M'gladbach,Freiburg,0,0,1.73,2.1
+D1,17/10/2025,19:30,Union Berlin,M'gladbach,3,1,1.88,1.98
+D1,18/10/2025,14:30,FC Koln,Augsburg,1,1,1.57,2.38
+D1,18/10/2025,14:30,Heidenheim,Werder Bremen,2,2,1.67,2.2
+D1,18/10/2025,14:30,Mainz,Leverkusen,3,4,1.8,2
+D1,18/10/2025,14:30,RB Leipzig,Hamburg,2,1,1.36,3.2
+D1,18/10/2025,14:30,Wolfsburg,Stuttgart,0,3,1.62,2.3
+D1,18/10/2025,17:30,Bayern Munich,Dortmund,2,1,1.33,3.4
+D1,19/10/2025,14:30,Freiburg,Ein Frankfurt,2,2,1.62,2.3
+D1,19/10/2025,16:30,St Pauli,Hoffenheim,0,3,1.8,2
+D1,24/10/2025,19:30,Werder Bremen,Union Berlin,1,0,1.67,2.2
+D1,25/10/2025,14:30,Augsburg,RB Leipzig,0,6,1.44,2.75
+D1,25/10/2025,14:30,Ein Frankfurt,St Pauli,2,0,1.57,2.38
+D1,25/10/2025,14:30,Hamburg,Wolfsburg,0,1,1.67,2.2
+D1,25/10/2025,14:30,Hoffenheim,Heidenheim,3,1,1.5,2.63
+D1,25/10/2025,14:30,M'gladbach,Bayern Munich,0,3,1.29,3.75
+D1,25/10/2025,17:30,Dortmund,FC Koln,1,0,1.4,3
+D1,26/10/2025,14:30,Leverkusen,Freiburg,2,0,1.73,2.1
+D1,26/10/2025,16:30,Stuttgart,Mainz,2,1,1.57,2.38
+D1,31/10/2025,19:30,Augsburg,Dortmund,0,1,1.5,2.63
+D1,1/11/2025,14:30,Heidenheim,Ein Frankfurt,1,1,1.5,2.63
+D1,1/11/2025,14:30,Mainz,Werder Bremen,1,1,1.57,2.38
+D1,1/11/2025,14:30,RB Leipzig,Stuttgart,3,1,1.44,2.75
+D1,1/11/2025,14:30,St Pauli,M'gladbach,0,4,1.88,1.98
+D1,1/11/2025,14:30,Union Berlin,Freiburg,0,0,2.1,1.73
+D1,1/11/2025,17:30,Bayern Munich,Leverkusen,3,0,1.25,4
+D1,2/11/2025,14:30,FC Koln,Hamburg,4,1,1.62,2.3
+D1,2/11/2025,16:30,Wolfsburg,Hoffenheim,2,3,1.57,2.38
+D1,7/11/2025,19:30,Werder Bremen,Wolfsburg,2,1,1.53,2.5
+D1,8/11/2025,14:30,Hamburg,Dortmund,1,1,1.5,2.63
+D1,8/11/2025,14:30,Hoffenheim,RB Leipzig,3,1,1.4,3
+D1,8/11/2025,14:30,Leverkusen,Heidenheim,6,0,1.53,2.5
+D1,8/11/2025,14:30,Union Berlin,Bayern Munich,2,2,1.36,3.2
+D1,8/11/2025,17:30,M'gladbach,FC Koln,3,1,1.62,2.3
+D1,9/11/2025,14:30,Freiburg,St Pauli,2,1,2,1.8
+D1,9/11/2025,16:30,Stuttgart,Augsburg,3,2,1.57,2.38
+D1,9/11/2025,18:30,Ein Frankfurt,Mainz,1,0,1.57,2.38
+D1,21/11/2025,19:30,Mainz,Hoffenheim,1,1,1.67,2.2
+D1,22/11/2025,14:30,Augsburg,Hamburg,1,0,1.73,2.1
+D1,22/11/2025,14:30,Bayern Munich,Freiburg,6,2,1.33,3.4
+D1,22/11/2025,14:30,Dortmund,Stuttgart,3,3,1.53,2.5
+D1,22/11/2025,14:30,Heidenheim,M'gladbach,0,3,1.67,2.2
+D1,22/11/2025,14:30,Wolfsburg,Leverkusen,1,3,1.62,2.3
+D1,22/11/2025,17:30,FC Koln,Ein Frankfurt,3,4,1.53,2.5
+D1,23/11/2025,14:30,RB Leipzig,Werder Bremen,2,0,1.33,3.4
+D1,23/11/2025,16:30,St Pauli,Union Berlin,0,1,2.1,1.73
+D1,28/11/2025,19:30,M'gladbach,RB Leipzig,0,0,1.44,2.75
+D1,29/11/2025,14:30,Bayern Munich,St Pauli,3,1,1.25,4
+D1,29/11/2025,14:30,Hoffenheim,Augsburg,3,0,1.53,2.5
+D1,29/11/2025,14:30,Union Berlin,Heidenheim,1,2,1.93,1.93
+D1,29/11/2025,14:30,Werder Bremen,FC Koln,1,1,1.53,2.5
+D1,29/11/2025,17:30,Leverkusen,Dortmund,1,2,1.57,2.38
+D1,30/11/2025,14:30,Hamburg,Stuttgart,2,1,1.53,2.5
+D1,30/11/2025,16:30,Ein Frankfurt,Wolfsburg,1,1,1.5,2.63
+D1,30/11/2025,18:30,Freiburg,Mainz,4,0,2,1.8
+D1,5/12/2025,19:30,Mainz,M'gladbach,0,1,1.73,2.1
+D1,6/12/2025,14:30,Augsburg,Leverkusen,2,0,1.62,2.3
+D1,6/12/2025,14:30,FC Koln,St Pauli,1,1,1.91,1.91
+D1,6/12/2025,14:30,Heidenheim,Freiburg,2,1,1.91,1.91
+D1,6/12/2025,14:30,Stuttgart,Bayern Munich,0,5,1.33,3.4
+D1,6/12/2025,14:30,Wolfsburg,Union Berlin,3,1,1.93,1.93
+D1,6/12/2025,17:30,RB Leipzig,Ein Frankfurt,6,0,1.44,2.75
+D1,7/12/2025,14:30,Hamburg,Werder Bremen,3,2,1.73,2.1
+D1,7/12/2025,16:30,Dortmund,Hoffenheim,2,0,1.5,2.63
+D1,12/12/2025,19:30,Union Berlin,RB Leipzig,3,1,1.98,1.88
+D1,13/12/2025,14:30,Ein Frankfurt,Augsburg,1,0,1.57,2.38
+D1,13/12/2025,14:30,Hoffenheim,Hamburg,4,1,1.5,2.63
+D1,13/12/2025,14:30,M'gladbach,Wolfsburg,1,3,1.57,2.38
+D1,13/12/2025,14:30,St Pauli,Heidenheim,2,1,2.2,1.67
+D1,13/12/2025,17:30,Leverkusen,FC Koln,2,0,1.53,2.5
+D1,14/12/2025,14:30,Freiburg,Dortmund,1,1,1.83,2.03
+D1,14/12/2025,16:30,Bayern Munich,Mainz,2,2,1.22,4.33
+D1,14/12/2025,18:30,Werder Bremen,Stuttgart,0,4,1.53,2.5
+D1,19/12/2025,19:30,Dortmund,M'gladbach,2,0,1.5,2.63
+D1,20/12/2025,14:30,Augsburg,Werder Bremen,0,0,1.73,2.1
+D1,20/12/2025,14:30,FC Koln,Union Berlin,0,1,1.98,1.88
+D1,20/12/2025,14:30,Hamburg,Ein Frankfurt,1,1,1.67,2.2
+D1,20/12/2025,14:30,Stuttgart,Hoffenheim,0,0,1.5,2.63
+D1,20/12/2025,14:30,Wolfsburg,Freiburg,3,4,1.8,2
+D1,20/12/2025,17:30,RB Leipzig,Leverkusen,1,3,1.53,2.5
+D1,21/12/2025,14:30,Mainz,St Pauli,0,0,2.1,1.73
+D1,21/12/2025,16:30,Heidenheim,Bayern Munich,0,4,1.25,4
+D1,9/01/2026,19:30,Ein Frankfurt,Dortmund,3,3,1.62,2.3
+D1,10/01/2026,14:30,Freiburg,Hamburg,2,1,1.83,2.03
+D1,10/01/2026,14:30,Heidenheim,FC Koln,2,2,1.8,2
+D1,10/01/2026,14:30,Union Berlin,Mainz,2,2,2.2,1.65
+D1,10/01/2026,17:30,Leverkusen,Stuttgart,1,4,1.5,2.63
+D1,11/01/2026,14:30,M'gladbach,Augsburg,4,0,1.8,2
+D1,11/01/2026,16:30,Bayern Munich,Wolfsburg,8,1,1.2,4.5
+D1,13/01/2026,17:30,Stuttgart,Ein Frankfurt,3,2,1.5,2.63
+D1,13/01/2026,19:30,Dortmund,Werder Bremen,3,0,1.5,2.63
+D1,13/01/2026,19:30,Mainz,Heidenheim,2,1,1.73,2.1
+D1,14/01/2026,17:30,Wolfsburg,St Pauli,2,1,1.93,1.93
+D1,14/01/2026,19:30,FC Koln,Bayern Munich,1,3,1.25,4
+D1,14/01/2026,19:30,Hoffenheim,M'gladbach,5,1,1.57,2.38
+D1,14/01/2026,19:30,RB Leipzig,Freiburg,2,0,1.57,2.38
+D1,15/01/2026,19:30,Augsburg,Union Berlin,1,1,2.2,1.67
+D1,16/01/2026,19:30,Werder Bremen,Ein Frankfurt,3,3,1.67,2.2
+D1,17/01/2026,14:30,Dortmund,St Pauli,3,2,1.67,2.2
+D1,17/01/2026,14:30,FC Koln,Mainz,2,1,1.73,2.1
+D1,17/01/2026,14:30,Hamburg,M'gladbach,0,0,1.73,2.1
+D1,17/01/2026,14:30,Hoffenheim,Leverkusen,1,0,1.5,2.63
+D1,17/01/2026,14:30,Wolfsburg,Heidenheim,1,1,1.57,2.38
+D1,17/01/2026,17:30,RB Leipzig,Bayern Munich,1,5,1.3,3.5
+D1,18/01/2026,14:30,Stuttgart,Union Berlin,1,1,1.8,2
+D1,18/01/2026,16:30,Augsburg,Freiburg,2,2,1.98,1.88
+D1,23/01/2026,19:30,St Pauli,Hamburg,0,0,2.63,1.5
+D1,24/01/2026,14:30,Bayern Munich,Augsburg,1,2,1.25,4
+D1,24/01/2026,14:30,Ein Frankfurt,Hoffenheim,1,3,1.53,2.5
+D1,24/01/2026,14:30,Heidenheim,RB Leipzig,0,3,1.5,2.63
+D1,24/01/2026,14:30,Leverkusen,Werder Bremen,1,0,1.5,2.63
+D1,24/01/2026,14:30,Mainz,Wolfsburg,3,1,1.73,2.1
+D1,24/01/2026,17:30,Union Berlin,Dortmund,0,3,1.91,1.91
+D1,25/01/2026,14:30,M'gladbach,Stuttgart,0,3,1.53,2.5
+D1,25/01/2026,16:30,Freiburg,FC Koln,2,1,1.8,2
+D1,27/01/2026,19:30,St Pauli,RB Leipzig,1,1,2.1,1.73
+D1,27/01/2026,19:30,Werder Bremen,Hoffenheim,0,2,1.73,2.1
+D1,30/01/2026,19:30,FC Koln,Wolfsburg,1,0,1.57,2.38
+D1,31/01/2026,14:30,Augsburg,St Pauli,2,1,2.3,1.62
+D1,31/01/2026,14:30,Ein Frankfurt,Leverkusen,1,3,1.53,2.5
+D1,31/01/2026,14:30,Hoffenheim,Union Berlin,3,1,1.8,2
+D1,31/01/2026,14:30,RB Leipzig,Mainz,1,2,1.53,2.5
+D1,31/01/2026,14:30,Werder Bremen,M'gladbach,1,1,1.67,2.2
+D1,31/01/2026,17:30,Hamburg,Bayern Munich,2,2,1.33,3.4
+D1,1/02/2026,14:30,Stuttgart,Freiburg,1,0,1.62,2.3
+D1,1/02/2026,16:30,Dortmund,Heidenheim,3,2,1.44,2.75
